@@ -1,0 +1,6 @@
+Crate: filetime
+Version: 0.2.29
+SPDX license declaration: MIT/Apache-2.0
+Repository: https://github.com/alexcrichton/filetime
+Authors: Alex Crichton <alex@alexcrichton.com>
+Source: https://crates.io/crates/filetime/0.2.29

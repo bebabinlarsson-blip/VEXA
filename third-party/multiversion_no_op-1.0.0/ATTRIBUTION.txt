@@ -1,0 +1,6 @@
+Crate: multiversion_no_op
+Version: 1.0.0
+SPDX license declaration: Apache-2.0 OR MIT
+Repository: https://github.com/hsivonen/multiversion_no_op
+Authors: Henri Sivonen <hsivonen@hsivonen.fi>
+Source: https://crates.io/crates/multiversion_no_op/1.0.0

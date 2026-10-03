@@ -1,0 +1,6 @@
+Crate: gix-imara-diff
+Version: 0.3.0
+SPDX license declaration: Apache-2.0
+Repository: https://github.com/GitoxideLabs/gitoxide
+Authors: pascalkuthe <pascalkuthe@pm.me>, Sebastian Thiel <sebastian.thiel@icloud.com>
+Source: https://crates.io/crates/gix-imara-diff/0.3.0

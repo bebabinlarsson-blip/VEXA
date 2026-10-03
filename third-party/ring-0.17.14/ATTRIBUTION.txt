@@ -1,0 +1,6 @@
+Crate: ring
+Version: 0.17.14
+SPDX license declaration: Apache-2.0 AND ISC
+Repository: https://github.com/briansmith/ring
+Authors: 
+Source: https://crates.io/crates/ring/0.17.14

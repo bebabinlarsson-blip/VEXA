@@ -1,0 +1,6 @@
+Crate: xattr
+Version: 1.6.1
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/Stebalien/xattr
+Authors: Steven Allen <steven@stebalien.com>
+Source: https://crates.io/crates/xattr/1.6.1

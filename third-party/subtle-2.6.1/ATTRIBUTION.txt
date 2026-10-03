@@ -1,0 +1,6 @@
+Crate: subtle
+Version: 2.6.1
+SPDX license declaration: BSD-3-Clause
+Repository: https://github.com/dalek-cryptography/subtle
+Authors: Isis Lovecruft <isis@patternsinthevoid.net>, Henry de Valence <hdevalence@hdevalence.ca>
+Source: https://crates.io/crates/subtle/2.6.1

@@ -1,0 +1,6 @@
+Crate: once_cell
+Version: 1.21.4
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/matklad/once_cell
+Authors: Aleksey Kladov <aleksey.kladov@gmail.com>
+Source: https://crates.io/crates/once_cell/1.21.4

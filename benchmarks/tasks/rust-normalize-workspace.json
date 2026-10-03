@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "rust-normalize-workspace",
+  "category": "retrieval",
+  "language": "rust",
+  "fixture_repo": "fixtures/polyglot",
+  "prompt": "Find the Rust code that canonicalizes a workspace key by trimming it, normalizing path separators, removing a trailing slash, and lowercasing it.",
+  "scenario": {
+    "kind": "single_query"
+  },
+  "expected": {
+    "relevant_files": ["rust/src/workspace.rs"],
+    "relevant_symbols": [
+      {
+        "path": "rust/src/workspace.rs",
+        "symbol": "normalize_workspace_key"
+      }
+    ]
+  }
+}
+

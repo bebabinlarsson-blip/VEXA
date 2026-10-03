@@ -1,0 +1,6 @@
+Crate: bitflags
+Version: 2.13.2
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/bitflags/bitflags
+Authors: The Rust Project Developers
+Source: https://crates.io/crates/bitflags/2.13.2

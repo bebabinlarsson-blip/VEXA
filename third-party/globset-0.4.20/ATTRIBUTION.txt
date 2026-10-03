@@ -1,0 +1,6 @@
+Crate: globset
+Version: 0.4.20
+SPDX license declaration: Unlicense OR MIT
+Repository: https://github.com/BurntSushi/ripgrep/tree/master/crates/globset
+Authors: Andrew Gallant <jamslam@gmail.com>
+Source: https://crates.io/crates/globset/0.4.20

@@ -1,0 +1,6 @@
+Crate: indexmap
+Version: 2.14.2
+SPDX license declaration: Apache-2.0 OR MIT
+Repository: https://github.com/indexmap-rs/indexmap
+Authors: 
+Source: https://crates.io/crates/indexmap/2.14.2

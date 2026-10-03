@@ -1,0 +1,6 @@
+Crate: gix-config
+Version: 0.61.0
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/GitoxideLabs/gitoxide
+Authors: Edward Shen <code@eddie.sh>
+Source: https://crates.io/crates/gix-config/0.61.0

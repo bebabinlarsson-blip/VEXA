@@ -1,0 +1,6 @@
+Crate: percent-encoding
+Version: 2.3.2
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/servo/rust-url/
+Authors: The rust-url developers
+Source: https://crates.io/crates/percent-encoding/2.3.2

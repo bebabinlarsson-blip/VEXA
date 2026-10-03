@@ -1,0 +1,6 @@
+Crate: clru
+Version: 0.6.3
+SPDX license declaration: MIT
+Repository: https://github.com/marmeladema/clru-rs
+Authors: marmeladema <xademax@gmail.com>
+Source: https://crates.io/crates/clru/0.6.3

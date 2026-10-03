@@ -1,0 +1,6 @@
+Crate: gix-status
+Version: 0.35.0
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/GitoxideLabs/gitoxide
+Authors: Sebastian Thiel <sebastian.thiel@icloud.com>, Pascal Kuthe <pascal.kuthe@semimod.de>
+Source: https://crates.io/crates/gix-status/0.35.0

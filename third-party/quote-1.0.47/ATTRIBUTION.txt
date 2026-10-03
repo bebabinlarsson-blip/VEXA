@@ -1,0 +1,6 @@
+Crate: quote
+Version: 1.0.47
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/dtolnay/quote
+Authors: David Tolnay <dtolnay@gmail.com>
+Source: https://crates.io/crates/quote/1.0.47

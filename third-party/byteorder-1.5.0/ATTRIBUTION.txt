@@ -1,0 +1,6 @@
+Crate: byteorder
+Version: 1.5.0
+SPDX license declaration: Unlicense OR MIT
+Repository: https://github.com/BurntSushi/byteorder
+Authors: Andrew Gallant <jamslam@gmail.com>
+Source: https://crates.io/crates/byteorder/1.5.0

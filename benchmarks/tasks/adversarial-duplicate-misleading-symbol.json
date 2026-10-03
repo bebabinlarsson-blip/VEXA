@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "adversarial-duplicate-misleading-symbol",
+  "category": "adversarial",
+  "language": "typescript",
+  "fixture_repo": "fixtures/adversarial",
+  "prompt": "Find the candidate-selection implementation that makes equal-score ordering deterministic by using the candidate path as a tie-breaker.",
+  "scenario": {
+    "kind": "single_query"
+  },
+  "expected": {
+    "relevant_files": ["src/search/candidate_ranker.ts"],
+    "relevant_symbols": [
+      {
+        "path": "src/search/candidate_ranker.ts",
+        "symbol": "selectCandidate"
+      }
+    ]
+  },
+  "guards": {
+    "forbidden_paths": ["src/important_candidate_ranker.ts"]
+  }
+}
+

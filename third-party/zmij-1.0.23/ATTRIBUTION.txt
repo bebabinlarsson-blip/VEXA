@@ -1,0 +1,6 @@
+Crate: zmij
+Version: 1.0.23
+SPDX license declaration: MIT
+Repository: https://github.com/dtolnay/zmij
+Authors: David Tolnay <dtolnay@gmail.com>
+Source: https://crates.io/crates/zmij/1.0.23

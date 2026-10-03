@@ -1,0 +1,33 @@
+{
+  "recorded_local_date": "2026-10-03",
+  "execution": "ARM64 Linux musl under Docker Desktop ARM64 user-mode emulation on Windows/x86_64; not native ARM or Raspberry Pi",
+  "runtime_image": "alpine:3.22",
+  "runtime_image_digest": "sha256:5291449c3df73caf6ed85e649dec1b9e818b39a5d8c871e97afc13e9cd5e8fa8",
+  "build_image": "ghcr.io/cross-rs/aarch64-unknown-linux-musl:0.2.5",
+  "build_image_digest": "sha256:702154f52b2d8091671aa2c84d5582d849f949977228c735ff8462f93cc0e1e4",
+  "rust": "1.90.0",
+  "build": "actual optimized cross-build of vexa-boot and vexa-cli",
+  "elf_machine": "AArch64",
+  "elf_type": "EXEC",
+  "elf_interpreter": null,
+  "retrieval_tasks": "15/15 passed, 6/6 guards, no skips",
+  "seeded_claims": "13/13 passed, false acceptance 0/9",
+  "supplied_log_classification": "4/4 passed",
+  "offline_package_smoke": "passed: linked-directory rejection, install, upgrade, reinstall, bidirectional rollback, single-version removal, doctor, hooks, checksum rejection, uninstall with user configuration retained",
+  "release_core_sha256": "e3c770747266ab82852d27673d44cd539bc28cd7a8af1b8851c0192693f3a325",
+  "core_bytes": 20799040,
+  "package_sha256": "b42b38db1b709417fd53c1b7508980952070adb050073550c850b22a2b6b09c5",
+  "package_bytes": 5229412,
+  "not_performance_evidence": "Emulation, Docker bind mounts, and concurrent builds; no native throughput, latency, memory or Pi hardware claim",
+  "commands": [
+    "cargo build --locked --release --package vexa-boot --package vexa-cli --target aarch64-unknown-linux-musl",
+    "bash scripts/package.sh --target aarch64-unknown-linux-musl --output-dir /validation/arm64-cross-dist --skip-build",
+    "vexa-core benchmark --output /validation/arm64-release-fixtures.json",
+    "python3 benchmarks/tools/verify.py --binary vexa-core --output /validation/arm64-release-verification.json",
+    "sh scripts/smoke-package.sh /validation/arm64-cross-dist/vexa-0.1.0-aarch64-unknown-linux-musl.tar.gz"
+  ],
+  "tests_passed": 77,
+  "test_image": "rust:1.90-alpine3.22",
+  "test_image_digest": "sha256:b4b54b176a74db7e5c68fdfe6029be39a02ccbcfe72b6e5a3e18e2c61b57ae26",
+  "unit_test_execution": "cargo test --locked --workspace --all-features compiled and ran under ARM64 musl emulation"
+}

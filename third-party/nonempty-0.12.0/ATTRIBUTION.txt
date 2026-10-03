@@ -1,0 +1,6 @@
+Crate: nonempty
+Version: 0.12.0
+SPDX license declaration: MIT
+Repository: https://github.com/cloudhead/nonempty
+Authors: Alexis Sellier <self@cloudhead.io>
+Source: https://crates.io/crates/nonempty/0.12.0

@@ -1,0 +1,6 @@
+Crate: document-features
+Version: 0.2.12
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/slint-ui/document-features
+Authors: Slint Developers <info@slint.dev>
+Source: https://crates.io/crates/document-features/0.2.12

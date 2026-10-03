@@ -1,0 +1,6 @@
+Crate: hex
+Version: 0.4.3
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/KokaKiwi/rust-hex
+Authors: KokaKiwi <kokakiwi@kokakiwi.net>
+Source: https://crates.io/crates/hex/0.4.3

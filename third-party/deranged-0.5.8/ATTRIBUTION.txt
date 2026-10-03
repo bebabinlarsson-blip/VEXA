@@ -1,0 +1,6 @@
+Crate: deranged
+Version: 0.5.8
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/jhpratt/deranged
+Authors: Jacob Pratt <jacob@jhpratt.dev>
+Source: https://crates.io/crates/deranged/0.5.8

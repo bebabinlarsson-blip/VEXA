@@ -1,0 +1,6 @@
+Crate: defmt
+Version: 1.1.1
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/knurling-rs/defmt
+Authors: The Knurling-rs developers
+Source: https://crates.io/crates/defmt/1.1.1

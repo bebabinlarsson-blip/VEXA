@@ -1,0 +1,6 @@
+Crate: http
+Version: 1.5.0
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/hyperium/http
+Authors: Alex Crichton <alex@alexcrichton.com>, Carl Lerche <me@carllerche.com>, Sean McArthur <sean@seanmonstar.com>
+Source: https://crates.io/crates/http/1.5.0

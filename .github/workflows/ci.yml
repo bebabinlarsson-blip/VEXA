@@ -1,0 +1,83 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  quality:
+    name: Format and clippy
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+      - name: Show Rust toolchain
+        run: rustc --version && cargo --version
+      - name: Check formatting
+        run: cargo fmt --all -- --check
+      - name: Clippy
+        run: cargo clippy --locked --workspace --all-targets --all-features -- -D warnings
+
+  test:
+    name: Test (${{ matrix.os }})
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-24.04, ubuntu-24.04-arm, windows-2025]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+      - name: Show Rust toolchain
+        run: rustc --version && cargo --version
+      - name: Test workspace
+        run: cargo test --locked --workspace --all-features
+      - name: Test provider adapter safeguards without provider calls
+        run: ${{ runner.os == 'Windows' && 'python' || 'python3' }} -m unittest discover -s benchmarks/tools -p test_model_ab.py
+      - name: Deterministic retrieval regression corpus
+        run: cargo run --locked --package vexa-cli -- benchmark --output benchmark-results/regression.json
+      - name: Seeded verification regression (Unix)
+        if: runner.os != 'Windows'
+        run: python3 benchmarks/tools/verify.py --binary target/debug/vexa-core --output benchmark-results/verification.json
+      - name: Seeded verification regression (Windows)
+        if: runner.os == 'Windows'
+        run: python benchmarks/tools/verify.py --binary target/debug/vexa-core.exe --output benchmark-results/verification.json
+      - name: Preserve actual benchmark evidence
+        if: always()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: regressions-${{ matrix.os }}
+          path: benchmark-results/*.json
+          if-no-files-found: warn
+
+  package-smoke:
+    name: Package and offline lifecycle smoke (${{ matrix.os }})
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-24.04, windows-2025]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+      - name: Package and smoke Windows artifact
+        if: runner.os == 'Windows'
+        shell: pwsh
+        run: |
+          $archive = ./scripts/package.ps1 -Target x86_64-pc-windows-msvc -OutputDir dist
+          ./scripts/smoke-package.ps1 -Archive $archive
+      - name: Package and smoke Linux artifact
+        if: runner.os == 'Linux'
+        shell: bash
+        run: |
+          archive="$(bash scripts/package.sh --target x86_64-unknown-linux-gnu --output-dir dist)"
+          sh scripts/smoke-package.sh "$archive"

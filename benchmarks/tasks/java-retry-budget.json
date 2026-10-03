@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "java-retry-budget",
+  "category": "retrieval",
+  "language": "java",
+  "fixture_repo": "fixtures/polyglot",
+  "prompt": "Find the Java method that reports how many retry attempts remain after subtracting attempts already used, never returning a negative number.",
+  "scenario": {
+    "kind": "single_query"
+  },
+  "expected": {
+    "relevant_files": ["java/src/main/java/bench/RetryBudget.java"],
+    "relevant_symbols": [
+      {
+        "path": "java/src/main/java/bench/RetryBudget.java",
+        "symbol": "remainingAttempts"
+      }
+    ]
+  }
+}
+

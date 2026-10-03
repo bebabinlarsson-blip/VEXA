@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "cpp-index-window",
+  "category": "retrieval",
+  "language": "cpp",
+  "fixture_repo": "fixtures/polyglot",
+  "prompt": "Find the C++ method that checks whether a position belongs to a half-open index window [begin, end).",
+  "scenario": {
+    "kind": "single_query"
+  },
+  "expected": {
+    "relevant_files": ["cpp/src/index_window.cpp", "cpp/include/index_window.hpp"],
+    "relevant_symbols": [
+      {
+        "path": "cpp/src/index_window.cpp",
+        "symbol": "IndexWindow::contains"
+      },
+      {
+        "path": "cpp/include/index_window.hpp",
+        "symbol": "contains"
+      }
+    ]
+  }
+}
+

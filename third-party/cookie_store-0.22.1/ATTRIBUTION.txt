@@ -1,0 +1,6 @@
+Crate: cookie_store
+Version: 0.22.1
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/pfernie/cookie_store
+Authors: Patrick Fernie <patrick.fernie@gmail.com>
+Source: https://crates.io/crates/cookie_store/0.22.1

@@ -1,0 +1,6 @@
+Crate: fnv
+Version: 1.0.7
+SPDX license declaration: Apache-2.0 / MIT
+Repository: https://github.com/servo/rust-fnv
+Authors: Alex Crichton <alex@alexcrichton.com>
+Source: https://crates.io/crates/fnv/1.0.7

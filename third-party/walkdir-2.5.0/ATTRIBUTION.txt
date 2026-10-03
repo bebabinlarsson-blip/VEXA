@@ -1,0 +1,6 @@
+Crate: walkdir
+Version: 2.5.0
+SPDX license declaration: Unlicense/MIT
+Repository: https://github.com/BurntSushi/walkdir
+Authors: Andrew Gallant <jamslam@gmail.com>
+Source: https://crates.io/crates/walkdir/2.5.0

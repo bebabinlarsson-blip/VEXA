@@ -1,0 +1,6 @@
+Crate: powerfmt
+Version: 0.2.0
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/jhpratt/powerfmt
+Authors: Jacob Pratt <jacob@jhpratt.dev>
+Source: https://crates.io/crates/powerfmt/0.2.0

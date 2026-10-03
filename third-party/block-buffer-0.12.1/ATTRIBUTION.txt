@@ -1,0 +1,6 @@
+Crate: block-buffer
+Version: 0.12.1
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/RustCrypto/utils
+Authors: RustCrypto Developers
+Source: https://crates.io/crates/block-buffer/0.12.1

@@ -1,0 +1,6 @@
+Crate: zeroize
+Version: 1.9.0
+SPDX license declaration: Apache-2.0 OR MIT
+Repository: https://github.com/RustCrypto/utils
+Authors: The RustCrypto Project Developers
+Source: https://crates.io/crates/zeroize/1.9.0

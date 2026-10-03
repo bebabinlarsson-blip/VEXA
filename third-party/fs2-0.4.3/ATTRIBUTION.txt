@@ -1,0 +1,6 @@
+Crate: fs2
+Version: 0.4.3
+SPDX license declaration: MIT/Apache-2.0
+Repository: https://github.com/danburkert/fs2-rs
+Authors: Dan Burkert <dan@danburkert.com>
+Source: https://crates.io/crates/fs2/0.4.3

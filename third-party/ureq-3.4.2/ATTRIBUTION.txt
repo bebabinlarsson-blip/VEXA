@@ -1,0 +1,6 @@
+Crate: ureq
+Version: 3.4.2
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/algesten/ureq
+Authors: Martin Algesten <martin@algesten.se>, Jacob Hoffman-Andrews <ureq@hoffman-andrews.com>
+Source: https://crates.io/crates/ureq/3.4.2

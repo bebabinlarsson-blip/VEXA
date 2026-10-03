@@ -1,0 +1,4 @@
+**/.env
+!src/.env
+!logs/build.log
+logs/*.tmp

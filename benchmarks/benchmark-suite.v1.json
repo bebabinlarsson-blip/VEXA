@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "suite_id": "vexa-deterministic-regression-v1",
+  "task_schema": "schema/benchmark-task.schema.json",
+  "tasks": [
+    "tasks/rust-normalize-workspace.json",
+    "tasks/python-retry-header.json",
+    "tasks/typescript-feature-gate.json",
+    "tasks/javascript-trace-id.json",
+    "tasks/java-retry-budget.json",
+    "tasks/c-frame-header.json",
+    "tasks/cpp-index-window.json",
+    "tasks/csharp-token-lease.json",
+    "tasks/go-module-path.json",
+    "tasks/adversarial-duplicate-misleading-symbol.json",
+    "tasks/adversarial-prompt-injection-comment.json",
+    "tasks/adversarial-secret-neighbour.json",
+    "tasks/adversarial-symlink-escape.json",
+    "tasks/freshness-stale-index-mutation.json",
+    "tasks/adversarial-giant-log.json"
+  ],
+  "runner_contract": {
+    "fixture_copy_mode": "copy_per_task",
+    "default_index_state": "fresh",
+    "task_paths_relative_to": "benchmarks_root",
+    "result_statuses": ["passed", "failed", "skipped", "error"],
+    "manifest_contains_measurements": false
+  }
+}
+

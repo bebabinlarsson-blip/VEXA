@@ -1,0 +1,6 @@
+Crate: jiff-tzdb
+Version: 0.1.8
+SPDX license declaration: Unlicense OR MIT
+Repository: https://github.com/BurntSushi/jiff
+Authors: Andrew Gallant <jamslam@gmail.com>
+Source: https://crates.io/crates/jiff-tzdb/0.1.8

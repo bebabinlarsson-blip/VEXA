@@ -1,0 +1,6 @@
+Crate: gix-pack
+Version: 0.75.0
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/GitoxideLabs/gitoxide
+Authors: Sebastian Thiel <sebastian.thiel@icloud.com>
+Source: https://crates.io/crates/gix-pack/0.75.0

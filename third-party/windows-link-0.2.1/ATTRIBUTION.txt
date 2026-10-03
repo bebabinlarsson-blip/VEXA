@@ -1,0 +1,6 @@
+Crate: windows-link
+Version: 0.2.1
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/microsoft/windows-rs
+Authors: 
+Source: https://crates.io/crates/windows-link/0.2.1

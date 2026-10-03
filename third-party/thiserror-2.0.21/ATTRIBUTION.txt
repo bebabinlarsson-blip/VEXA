@@ -1,0 +1,6 @@
+Crate: thiserror
+Version: 2.0.21
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/dtolnay/thiserror
+Authors: David Tolnay <dtolnay@gmail.com>
+Source: https://crates.io/crates/thiserror/2.0.21

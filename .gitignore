@@ -1,0 +1,17 @@
+/target/
+/.idea/
+/.vscode/
+*.tmp
+*.swp
+*.log
+!benchmarks/fixtures/adversarial/logs/build.log
+.DS_Store
+Thumbs.db
+
+# Local VEXA development state (end-user state lives outside repositories by default).
+/.vexa/
+/benchmark-results/
+/dist/
+__pycache__/
+*.pyc
+

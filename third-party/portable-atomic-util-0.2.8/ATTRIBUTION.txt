@@ -1,0 +1,6 @@
+Crate: portable-atomic-util
+Version: 0.2.8
+SPDX license declaration: Apache-2.0 OR MIT
+Repository: https://github.com/taiki-e/portable-atomic-util
+Authors: 
+Source: https://crates.io/crates/portable-atomic-util/0.2.8

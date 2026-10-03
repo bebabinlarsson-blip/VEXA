@@ -1,0 +1,6 @@
+Crate: faster-hex
+Version: 0.10.1
+SPDX license declaration: MIT
+Repository: https://github.com/NervosFoundation/faster-hex
+Authors: zhangsoledad <787953403@qq.com>
+Source: https://crates.io/crates/faster-hex/0.10.1

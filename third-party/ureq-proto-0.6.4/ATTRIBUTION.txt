@@ -1,0 +1,6 @@
+Crate: ureq-proto
+Version: 0.6.4
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/algesten/ureq-proto
+Authors: Martin Algesten <martin@algesten.se>
+Source: https://crates.io/crates/ureq-proto/0.6.4

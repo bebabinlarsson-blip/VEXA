@@ -1,0 +1,6 @@
+Crate: simd-adler32
+Version: 0.3.10
+SPDX license declaration: MIT
+Repository: https://github.com/mcountryman/simd-adler32
+Authors: Marvin Countryman <me@maar.vin>
+Source: https://crates.io/crates/simd-adler32/0.3.10

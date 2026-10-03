@@ -1,0 +1,6 @@
+Crate: litrs
+Version: 1.0.0
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/LukasKalbertodt/litrs
+Authors: Lukas Kalbertodt <lukas.kalbertodt@gmail.com>
+Source: https://crates.io/crates/litrs/1.0.0

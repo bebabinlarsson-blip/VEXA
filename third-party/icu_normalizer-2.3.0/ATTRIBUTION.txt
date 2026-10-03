@@ -1,0 +1,6 @@
+Crate: icu_normalizer
+Version: 2.3.0
+SPDX license declaration: Unicode-3.0
+Repository: https://github.com/unicode-org/icu4x
+Authors: The ICU4X Project Developers
+Source: https://crates.io/crates/icu_normalizer/2.3.0

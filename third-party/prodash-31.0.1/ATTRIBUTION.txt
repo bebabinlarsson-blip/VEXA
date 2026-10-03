@@ -1,0 +1,6 @@
+Crate: prodash
+Version: 31.0.1
+SPDX license declaration: MIT
+Repository: https://github.com/GitoxideLabs/prodash
+Authors: Sebastian Thiel <sebastian.thiel@icloud.com>
+Source: https://crates.io/crates/prodash/31.0.1

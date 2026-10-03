@@ -1,0 +1,6 @@
+Crate: utf8-zero
+Version: 0.8.1
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/algesten/utf8-zero
+Authors: Simon Sapin <simon.sapin@exyr.org>, Martin Algesten <martin@algesten.se>
+Source: https://crates.io/crates/utf8-zero/0.8.1

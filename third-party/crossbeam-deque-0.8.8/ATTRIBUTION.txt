@@ -1,0 +1,6 @@
+Crate: crossbeam-deque
+Version: 0.8.8
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/crossbeam-rs/crossbeam
+Authors: 
+Source: https://crates.io/crates/crossbeam-deque/0.8.8

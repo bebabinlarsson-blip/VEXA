@@ -1,0 +1,6 @@
+Crate: digest
+Version: 0.11.3
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/RustCrypto/traits
+Authors: RustCrypto Developers
+Source: https://crates.io/crates/digest/0.11.3

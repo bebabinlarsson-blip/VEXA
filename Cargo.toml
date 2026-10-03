@@ -1,0 +1,67 @@
+[workspace]
+members = [
+    "crates/vexa-types",
+    "crates/vexa-index",
+    "crates/vexa-seek",
+    "crates/vexa-pack",
+    "crates/vexa-memory",
+    "crates/vexa-verify",
+    "crates/vexa-update",
+    "crates/vexa-core",
+    "crates/vexa-boot",
+    "crates/vexa-cli",
+]
+resolver = "2"
+
+[workspace.package]
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+repository = "https://github.com/bebabinlarsson-blip/VEXA"
+rust-version = "1.90"
+
+[workspace.dependencies]
+anyhow = "1.0.104"
+clap = { version = "4.6.7", features = ["derive"] }
+dirs = "7.0.0"
+gix = { version = "0.88.0", default-features = false, features = ["status", "revision", "sha1"] }
+hex = "0.4.3"
+ignore = "0.4.33"
+serde = { version = "1.0.229", features = ["derive"] }
+serde_json = "1.0.145"
+sha2 = "0.11.0"
+sysinfo = "0.38.0"
+tempfile = "3.27.0"
+thiserror = "2.0.21"
+time = { version = "0.3.44", features = ["formatting", "serde"] }
+tree-sitter = "0.27.0"
+tree-sitter-c = "0.24.2"
+tree-sitter-c-sharp = "0.23.5"
+tree-sitter-cpp = "0.23.4"
+tree-sitter-go = "0.25.0"
+tree-sitter-java = "0.23.5"
+tree-sitter-javascript = "0.25.0"
+tree-sitter-python = "0.25.0"
+tree-sitter-rust = "0.24.2"
+tree-sitter-typescript = "0.23.2"
+ureq = { version = "3.4.2", features = ["json"] }
+zip = { version = "8.4.0", default-features = false, features = ["deflate"] }
+tar = "0.4.46"
+minisign-verify = "0.3.0"
+semver = "1.0.28"
+flate2 = "1.1.10"
+
+[workspace.lints.rust]
+unsafe_code = "forbid"
+
+[workspace.lints.clippy]
+all = { level = "warn", priority = -1 }
+pedantic = { level = "warn", priority = -1 }
+unwrap_used = "deny"
+expect_used = "deny"
+
+[profile.release]
+lto = "thin"
+codegen-units = 1
+strip = "symbols"
+panic = "abort"

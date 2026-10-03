@@ -1,0 +1,6 @@
+Crate: zerofrom-derive
+Version: 0.1.8
+SPDX license declaration: Unicode-3.0
+Repository: https://github.com/unicode-org/icu4x
+Authors: Manish Goregaokar <manishsmail@gmail.com>
+Source: https://crates.io/crates/zerofrom-derive/0.1.8

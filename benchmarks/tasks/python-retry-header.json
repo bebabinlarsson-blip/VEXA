@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "python-retry-header",
+  "category": "retrieval",
+  "language": "python",
+  "fixture_repo": "fixtures/polyglot",
+  "prompt": "Find the Python function that parses a Retry-After style header into a non-negative integer number of seconds and rejects non-numeric values.",
+  "scenario": {
+    "kind": "single_query"
+  },
+  "expected": {
+    "relevant_files": ["python/retry.py"],
+    "relevant_symbols": [
+      {
+        "path": "python/retry.py",
+        "symbol": "parse_retry_header"
+      }
+    ]
+  }
+}
+

@@ -1,0 +1,6 @@
+Crate: allocator-api2
+Version: 0.2.21
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/zakarumych/allocator-api2
+Authors: Zakarum <zaq.dev@icloud.com>
+Source: https://crates.io/crates/allocator-api2/0.2.21

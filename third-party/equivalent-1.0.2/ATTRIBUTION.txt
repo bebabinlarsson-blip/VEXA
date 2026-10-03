@@ -1,0 +1,6 @@
+Crate: equivalent
+Version: 1.0.2
+SPDX license declaration: Apache-2.0 OR MIT
+Repository: https://github.com/indexmap-rs/equivalent
+Authors: 
+Source: https://crates.io/crates/equivalent/1.0.2

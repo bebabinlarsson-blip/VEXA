@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "id": "freshness-stale-index-mutation",
+  "category": "freshness",
+  "language": "rust",
+  "fixture_repo": "fixtures/freshness",
+  "prompt": "After the repository changes, find the function that returns the rotated profile and report the current source rather than the stale pre-index symbol.",
+  "scenario": {
+    "kind": "index_then_mutate",
+    "mutation": {
+      "after_step": "index",
+      "operation": "replace_file",
+      "target_path": "src/state.rs",
+      "source_path": "mutations/freshness/state.after.rs"
+    }
+  },
+  "expected": {
+    "relevant_files": ["src/state.rs"],
+    "relevant_symbols": [
+      {
+        "path": "src/state.rs",
+        "symbol": "rotated_profile"
+      }
+    ]
+  },
+  "guards": {
+    "forbidden_symbols": [
+      {
+        "path": "src/state.rs",
+        "symbol": "active_profile"
+      }
+    ]
+  }
+}
+

@@ -1,0 +1,189 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://vexa.dev/schemas/benchmark-task-v1.schema.json",
+  "title": "VEXA deterministic benchmark task v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "id",
+    "category",
+    "language",
+    "fixture_repo",
+    "prompt",
+    "scenario",
+    "expected"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*$"
+    },
+    "category": {
+      "enum": ["retrieval", "adversarial", "freshness"]
+    },
+    "language": {
+      "enum": ["rust", "python", "typescript", "javascript", "java", "c", "cpp", "csharp", "go", "mixed"]
+    },
+    "fixture_repo": {
+      "type": "string",
+      "pattern": "^fixtures/"
+    },
+    "prompt": {
+      "type": "string",
+      "minLength": 1
+    },
+    "scenario": {
+      "oneOf": [
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["kind"],
+          "properties": {
+            "kind": {
+              "const": "single_query"
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["kind", "mutation"],
+          "properties": {
+            "kind": {
+              "const": "index_then_mutate"
+            },
+            "mutation": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["after_step", "operation", "target_path", "source_path"],
+              "properties": {
+                "after_step": {
+                  "const": "index"
+                },
+                "operation": {
+                  "const": "replace_file"
+                },
+                "target_path": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "source_path": {
+                  "type": "string",
+                  "pattern": "^mutations/"
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["kind", "symlink"],
+          "properties": {
+            "kind": {
+              "const": "symlink_escape"
+            },
+            "symlink": {
+              "type": "object",
+              "additionalProperties": false,
+              "required": ["link_path", "target_path", "skip_if"],
+              "properties": {
+                "link_path": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "target_path": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "skip_if": {
+                  "type": "array",
+                  "minItems": 1,
+                  "uniqueItems": true,
+                  "items": {
+                    "enum": ["windows_symlink_creation_unsupported"]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "expected": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["relevant_files", "relevant_symbols"],
+      "properties": {
+        "relevant_files": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "relevant_symbols": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["path", "symbol"],
+            "properties": {
+              "path": {
+                "type": "string",
+                "minLength": 1
+              },
+              "symbol": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        }
+      }
+    },
+    "guards": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "forbidden_paths": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "forbidden_symbols": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["path", "symbol"],
+            "properties": {
+              "path": {
+                "type": "string",
+                "minLength": 1
+              },
+              "symbol": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        },
+        "repository_content_is_untrusted": {
+          "type": "boolean"
+        }
+      }
+    }
+  }
+}
+

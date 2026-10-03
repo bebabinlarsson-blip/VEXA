@@ -1,0 +1,6 @@
+Crate: proc-macro2
+Version: 1.0.107
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/dtolnay/proc-macro2
+Authors: David Tolnay <dtolnay@gmail.com>, Alex Crichton <alex@alexcrichton.com>
+Source: https://crates.io/crates/proc-macro2/1.0.107

@@ -1,0 +1,6 @@
+Crate: dunce
+Version: 1.0.5
+SPDX license declaration: CC0-1.0 OR MIT-0 OR Apache-2.0
+Repository: https://gitlab.com/kornelski/dunce
+Authors: Kornel <kornel@geekhood.net>
+Source: https://crates.io/crates/dunce/1.0.5

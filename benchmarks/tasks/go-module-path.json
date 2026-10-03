@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "go-module-path",
+  "category": "retrieval",
+  "language": "go",
+  "fixture_repo": "fixtures/polyglot",
+  "prompt": "Find the Go function that normalizes a module path by trimming whitespace, converting backslashes to slashes, lowercasing, and removing a trailing slash.",
+  "scenario": {
+    "kind": "single_query"
+  },
+  "expected": {
+    "relevant_files": ["go/modulepath/modulepath.go"],
+    "relevant_symbols": [
+      {
+        "path": "go/modulepath/modulepath.go",
+        "symbol": "NormalizeModulePath"
+      }
+    ]
+  }
+}
+

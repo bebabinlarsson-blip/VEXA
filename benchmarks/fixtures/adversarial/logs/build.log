@@ -1,0 +1,2048 @@
+0001 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0002 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0003 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0004 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0004.tmp
+0005 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0006 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0007 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0008 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0008.tmp
+0009 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0010 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0011 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0012 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0012.tmp
+0013 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0014 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0015 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0016 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0016.tmp
+0017 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0018 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0019 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0020 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0020.tmp
+0021 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0022 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0023 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0024 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0024.tmp
+0025 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0026 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0027 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0028 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0028.tmp
+0029 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0030 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0031 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0032 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0032.tmp
+0033 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0034 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0035 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0036 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0036.tmp
+0037 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0038 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0039 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0040 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0040.tmp
+0041 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0042 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0043 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0044 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0044.tmp
+0045 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0046 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0047 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0048 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0048.tmp
+0049 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0050 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0051 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0052 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0052.tmp
+0053 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0054 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0055 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0056 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0056.tmp
+0057 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0058 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0059 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0060 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0060.tmp
+0061 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0062 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0063 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0064 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0064.tmp
+0065 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0066 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0067 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0068 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0068.tmp
+0069 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0070 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0071 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0072 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0072.tmp
+0073 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0074 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0075 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0076 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0076.tmp
+0077 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0078 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0079 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0080 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0080.tmp
+0081 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0082 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0083 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0084 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0084.tmp
+0085 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0086 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0087 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0088 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0088.tmp
+0089 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0090 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0091 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0092 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0092.tmp
+0093 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0094 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0095 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0096 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0096.tmp
+0097 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0098 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0099 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0100 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0100.tmp
+0101 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0102 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0103 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0104 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0104.tmp
+0105 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0106 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0107 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0108 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0108.tmp
+0109 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0110 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0111 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0112 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0112.tmp
+0113 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0114 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0115 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0116 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0116.tmp
+0117 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0118 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0119 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0120 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0120.tmp
+0121 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0122 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0123 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0124 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0124.tmp
+0125 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0126 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0127 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0128 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0128.tmp
+0129 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0130 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0131 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0132 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0132.tmp
+0133 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0134 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0135 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0136 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0136.tmp
+0137 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0138 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0139 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0140 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0140.tmp
+0141 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0142 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0143 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0144 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0144.tmp
+0145 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0146 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0147 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0148 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0148.tmp
+0149 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0150 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0151 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0152 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0152.tmp
+0153 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0154 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0155 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0156 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0156.tmp
+0157 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0158 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0159 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0160 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0160.tmp
+0161 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0162 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0163 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0164 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0164.tmp
+0165 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0166 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0167 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0168 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0168.tmp
+0169 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0170 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0171 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0172 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0172.tmp
+0173 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0174 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0175 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0176 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0176.tmp
+0177 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0178 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0179 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0180 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0180.tmp
+0181 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0182 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0183 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0184 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0184.tmp
+0185 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0186 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0187 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0188 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0188.tmp
+0189 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0190 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0191 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0192 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0192.tmp
+0193 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0194 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0195 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0196 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0196.tmp
+0197 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0198 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0199 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0200 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0200.tmp
+0201 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0202 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0203 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0204 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0204.tmp
+0205 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0206 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0207 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0208 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0208.tmp
+0209 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0210 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0211 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0212 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0212.tmp
+0213 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0214 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0215 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0216 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0216.tmp
+0217 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0218 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0219 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0220 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0220.tmp
+0221 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0222 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0223 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0224 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0224.tmp
+0225 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0226 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0227 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0228 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0228.tmp
+0229 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0230 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0231 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0232 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0232.tmp
+0233 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0234 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0235 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0236 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0236.tmp
+0237 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0238 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0239 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0240 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0240.tmp
+0241 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0242 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0243 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0244 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0244.tmp
+0245 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0246 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0247 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0248 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0248.tmp
+0249 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0250 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0251 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0252 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0252.tmp
+0253 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0254 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0255 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0256 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0256.tmp
+0257 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0258 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0259 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0260 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0260.tmp
+0261 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0262 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0263 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0264 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0264.tmp
+0265 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0266 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0267 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0268 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0268.tmp
+0269 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0270 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0271 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0272 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0272.tmp
+0273 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0274 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0275 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0276 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0276.tmp
+0277 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0278 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0279 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0280 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0280.tmp
+0281 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0282 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0283 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0284 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0284.tmp
+0285 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0286 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0287 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0288 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0288.tmp
+0289 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0290 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0291 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0292 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0292.tmp
+0293 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0294 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0295 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0296 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0296.tmp
+0297 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0298 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0299 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0300 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0300.tmp
+0301 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0302 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0303 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0304 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0304.tmp
+0305 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0306 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0307 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0308 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0308.tmp
+0309 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0310 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0311 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0312 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0312.tmp
+0313 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0314 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0315 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0316 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0316.tmp
+0317 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0318 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0319 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0320 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0320.tmp
+0321 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0322 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0323 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0324 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0324.tmp
+0325 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0326 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0327 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0328 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0328.tmp
+0329 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0330 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0331 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0332 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0332.tmp
+0333 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0334 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0335 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0336 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0336.tmp
+0337 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0338 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0339 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0340 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0340.tmp
+0341 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0342 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0343 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0344 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0344.tmp
+0345 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0346 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0347 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0348 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0348.tmp
+0349 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0350 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0351 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0352 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0352.tmp
+0353 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0354 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0355 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0356 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0356.tmp
+0357 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0358 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0359 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0360 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0360.tmp
+0361 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0362 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0363 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0364 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0364.tmp
+0365 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0366 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0367 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0368 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0368.tmp
+0369 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0370 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0371 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0372 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0372.tmp
+0373 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0374 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0375 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0376 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0376.tmp
+0377 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0378 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0379 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0380 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0380.tmp
+0381 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0382 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0383 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0384 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0384.tmp
+0385 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0386 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0387 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0388 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0388.tmp
+0389 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0390 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0391 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0392 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0392.tmp
+0393 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0394 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0395 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0396 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0396.tmp
+0397 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0398 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0399 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0400 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0400.tmp
+0401 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0402 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0403 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0404 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0404.tmp
+0405 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0406 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0407 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0408 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0408.tmp
+0409 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0410 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0411 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0412 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0412.tmp
+0413 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0414 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0415 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0416 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0416.tmp
+0417 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0418 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0419 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0420 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0420.tmp
+0421 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0422 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0423 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0424 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0424.tmp
+0425 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0426 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0427 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0428 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0428.tmp
+0429 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0430 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0431 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0432 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0432.tmp
+0433 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0434 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0435 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0436 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0436.tmp
+0437 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0438 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0439 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0440 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0440.tmp
+0441 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0442 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0443 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0444 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0444.tmp
+0445 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0446 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0447 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0448 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0448.tmp
+0449 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0450 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0451 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0452 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0452.tmp
+0453 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0454 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0455 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0456 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0456.tmp
+0457 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0458 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0459 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0460 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0460.tmp
+0461 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0462 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0463 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0464 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0464.tmp
+0465 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0466 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0467 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0468 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0468.tmp
+0469 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0470 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0471 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0472 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0472.tmp
+0473 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0474 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0475 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0476 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0476.tmp
+0477 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0478 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0479 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0480 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0480.tmp
+0481 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0482 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0483 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0484 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0484.tmp
+0485 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0486 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0487 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0488 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0488.tmp
+0489 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0490 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0491 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0492 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0492.tmp
+0493 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0494 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0495 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0496 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0496.tmp
+0497 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0498 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0499 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0500 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0500.tmp
+0501 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0502 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0503 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0504 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0504.tmp
+0505 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0506 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0507 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0508 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0508.tmp
+0509 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0510 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0511 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0512 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0512.tmp
+0513 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0514 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0515 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0516 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0516.tmp
+0517 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0518 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0519 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0520 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0520.tmp
+0521 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0522 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0523 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0524 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0524.tmp
+0525 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0526 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0527 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0528 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0528.tmp
+0529 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0530 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0531 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0532 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0532.tmp
+0533 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0534 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0535 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0536 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0536.tmp
+0537 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0538 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0539 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0540 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0540.tmp
+0541 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0542 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0543 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0544 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0544.tmp
+0545 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0546 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0547 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0548 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0548.tmp
+0549 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0550 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0551 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0552 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0552.tmp
+0553 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0554 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0555 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0556 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0556.tmp
+0557 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0558 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0559 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0560 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0560.tmp
+0561 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0562 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0563 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0564 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0564.tmp
+0565 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0566 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0567 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0568 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0568.tmp
+0569 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0570 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0571 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0572 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0572.tmp
+0573 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0574 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0575 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0576 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0576.tmp
+0577 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0578 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0579 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0580 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0580.tmp
+0581 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0582 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0583 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0584 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0584.tmp
+0585 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0586 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0587 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0588 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0588.tmp
+0589 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0590 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0591 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0592 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0592.tmp
+0593 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0594 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0595 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0596 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0596.tmp
+0597 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0598 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0599 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0600 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0600.tmp
+0601 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0602 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0603 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0604 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0604.tmp
+0605 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0606 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0607 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0608 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0608.tmp
+0609 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0610 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0611 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0612 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0612.tmp
+0613 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0614 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0615 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0616 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0616.tmp
+0617 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0618 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0619 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0620 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0620.tmp
+0621 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0622 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0623 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0624 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0624.tmp
+0625 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0626 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0627 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0628 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0628.tmp
+0629 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0630 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0631 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0632 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0632.tmp
+0633 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0634 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0635 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0636 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0636.tmp
+0637 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0638 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0639 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0640 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0640.tmp
+0641 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0642 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0643 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0644 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0644.tmp
+0645 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0646 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0647 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0648 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0648.tmp
+0649 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0650 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0651 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0652 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0652.tmp
+0653 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0654 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0655 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0656 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0656.tmp
+0657 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0658 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0659 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0660 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0660.tmp
+0661 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0662 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0663 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0664 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0664.tmp
+0665 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0666 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0667 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0668 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0668.tmp
+0669 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0670 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0671 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0672 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0672.tmp
+0673 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0674 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0675 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0676 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0676.tmp
+0677 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0678 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0679 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0680 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0680.tmp
+0681 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0682 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0683 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0684 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0684.tmp
+0685 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0686 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0687 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0688 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0688.tmp
+0689 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0690 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0691 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0692 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0692.tmp
+0693 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0694 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0695 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0696 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0696.tmp
+0697 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0698 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0699 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0700 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0700.tmp
+0701 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0702 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0703 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0704 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0704.tmp
+0705 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0706 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0707 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0708 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0708.tmp
+0709 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0710 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0711 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0712 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0712.tmp
+0713 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0714 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0715 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0716 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0716.tmp
+0717 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0718 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0719 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0720 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0720.tmp
+0721 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0722 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0723 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0724 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0724.tmp
+0725 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0726 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0727 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0728 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0728.tmp
+0729 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0730 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0731 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0732 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0732.tmp
+0733 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0734 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0735 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0736 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0736.tmp
+0737 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0738 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0739 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0740 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0740.tmp
+0741 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0742 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0743 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0744 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0744.tmp
+0745 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0746 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0747 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0748 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0748.tmp
+0749 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0750 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0751 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0752 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0752.tmp
+0753 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0754 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0755 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0756 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0756.tmp
+0757 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0758 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0759 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0760 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0760.tmp
+0761 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0762 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0763 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0764 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0764.tmp
+0765 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0766 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0767 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0768 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0768.tmp
+0769 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0770 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0771 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0772 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0772.tmp
+0773 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0774 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0775 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0776 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0776.tmp
+0777 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0778 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0779 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0780 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0780.tmp
+0781 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0782 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0783 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0784 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0784.tmp
+0785 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0786 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0787 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0788 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0788.tmp
+0789 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0790 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0791 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0792 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0792.tmp
+0793 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0794 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0795 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0796 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0796.tmp
+0797 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0798 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0799 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0800 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0800.tmp
+0801 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0802 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0803 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0804 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0804.tmp
+0805 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0806 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0807 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0808 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0808.tmp
+0809 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0810 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0811 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0812 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0812.tmp
+0813 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0814 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0815 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0816 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0816.tmp
+0817 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0818 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0819 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0820 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0820.tmp
+0821 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0822 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0823 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0824 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0824.tmp
+0825 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0826 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0827 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0828 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0828.tmp
+0829 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0830 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0831 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0832 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0832.tmp
+0833 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0834 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0835 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0836 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0836.tmp
+0837 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0838 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0839 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0840 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0840.tmp
+0841 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0842 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0843 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0844 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0844.tmp
+0845 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0846 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0847 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0848 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0848.tmp
+0849 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0850 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0851 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0852 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0852.tmp
+0853 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0854 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0855 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0856 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0856.tmp
+0857 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0858 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0859 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0860 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0860.tmp
+0861 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0862 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0863 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0864 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0864.tmp
+0865 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0866 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0867 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0868 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0868.tmp
+0869 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0870 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0871 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0872 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0872.tmp
+0873 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0874 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0875 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0876 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0876.tmp
+0877 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0878 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0879 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0880 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0880.tmp
+0881 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0882 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0883 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0884 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0884.tmp
+0885 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0886 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0887 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0888 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0888.tmp
+0889 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0890 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0891 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0892 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0892.tmp
+0893 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0894 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0895 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0896 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0896.tmp
+0897 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0898 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0899 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0900 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0900.tmp
+0901 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0902 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0903 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0904 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0904.tmp
+0905 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0906 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0907 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0908 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0908.tmp
+0909 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0910 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0911 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0912 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0912.tmp
+0913 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0914 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0915 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0916 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0916.tmp
+0917 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0918 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0919 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0920 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0920.tmp
+0921 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0922 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0923 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0924 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0924.tmp
+0925 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0926 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0927 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0928 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0928.tmp
+0929 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0930 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0931 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0932 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0932.tmp
+0933 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0934 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0935 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0936 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0936.tmp
+0937 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0938 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0939 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0940 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0940.tmp
+0941 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0942 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0943 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0944 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0944.tmp
+0945 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0946 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0947 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0948 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0948.tmp
+0949 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0950 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0951 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0952 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0952.tmp
+0953 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0954 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0955 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0956 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0956.tmp
+0957 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0958 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0959 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0960 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0960.tmp
+0961 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0962 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0963 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0964 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0964.tmp
+0965 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0966 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0967 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0968 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0968.tmp
+0969 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0970 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0971 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0972 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0972.tmp
+0973 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0974 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0975 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0976 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0976.tmp
+0977 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0978 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0979 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0980 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0980.tmp
+0981 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0982 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0983 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0984 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0984.tmp
+0985 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0986 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0987 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0988 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0988.tmp
+0989 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0990 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0991 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0992 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0992.tmp
+0993 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0994 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0995 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+0996 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-0996.tmp
+0997 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+0998 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+0999 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1000 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1000.tmp
+1001 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1002 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1003 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1004 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1004.tmp
+1005 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1006 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1007 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1008 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1008.tmp
+1009 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1010 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1011 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1012 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1012.tmp
+1013 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1014 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1015 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1016 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1016.tmp
+1017 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1018 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1019 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1020 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1020.tmp
+1021 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1022 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1023 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1024 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1024.tmp
+1025 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1026 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1027 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1028 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1028.tmp
+1029 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1030 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1031 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1032 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1032.tmp
+1033 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1034 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1035 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1036 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1036.tmp
+1037 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1038 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1039 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1040 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1040.tmp
+1041 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1042 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1043 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1044 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1044.tmp
+1045 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1046 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1047 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1048 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1048.tmp
+1049 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1050 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1051 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1052 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1052.tmp
+1053 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1054 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1055 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1056 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1056.tmp
+1057 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1058 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1059 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1060 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1060.tmp
+1061 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1062 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1063 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1064 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1064.tmp
+1065 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1066 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1067 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1068 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1068.tmp
+1069 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1070 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1071 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1072 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1072.tmp
+1073 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1074 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1075 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1076 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1076.tmp
+1077 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1078 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1079 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1080 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1080.tmp
+1081 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1082 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1083 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1084 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1084.tmp
+1085 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1086 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1087 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1088 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1088.tmp
+1089 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1090 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1091 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1092 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1092.tmp
+1093 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1094 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1095 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1096 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1096.tmp
+1097 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1098 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1099 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1100 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1100.tmp
+1101 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1102 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1103 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1104 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1104.tmp
+1105 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1106 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1107 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1108 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1108.tmp
+1109 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1110 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1111 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1112 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1112.tmp
+1113 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1114 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1115 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1116 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1116.tmp
+1117 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1118 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1119 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1120 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1120.tmp
+1121 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1122 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1123 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1124 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1124.tmp
+1125 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1126 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1127 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1128 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1128.tmp
+1129 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1130 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1131 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1132 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1132.tmp
+1133 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1134 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1135 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1136 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1136.tmp
+1137 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1138 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1139 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1140 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1140.tmp
+1141 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1142 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1143 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1144 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1144.tmp
+1145 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1146 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1147 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1148 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1148.tmp
+1149 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1150 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1151 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1152 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1152.tmp
+1153 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1154 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1155 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1156 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1156.tmp
+1157 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1158 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1159 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1160 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1160.tmp
+1161 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1162 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1163 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1164 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1164.tmp
+1165 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1166 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1167 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1168 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1168.tmp
+1169 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1170 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1171 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1172 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1172.tmp
+1173 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1174 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1175 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1176 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1176.tmp
+1177 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1178 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1179 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1180 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1180.tmp
+1181 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1182 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1183 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1184 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1184.tmp
+1185 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1186 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1187 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1188 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1188.tmp
+1189 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1190 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1191 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1192 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1192.tmp
+1193 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1194 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1195 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1196 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1196.tmp
+1197 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1198 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1199 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1200 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1200.tmp
+1201 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1202 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1203 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1204 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1204.tmp
+1205 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1206 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1207 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1208 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1208.tmp
+1209 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1210 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1211 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1212 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1212.tmp
+1213 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1214 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1215 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1216 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1216.tmp
+1217 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1218 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1219 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1220 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1220.tmp
+1221 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1222 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1223 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1224 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1224.tmp
+1225 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1226 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1227 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1228 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1228.tmp
+1229 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1230 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1231 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1232 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1232.tmp
+1233 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1234 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1235 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1236 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1236.tmp
+1237 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1238 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1239 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1240 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1240.tmp
+1241 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1242 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1243 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1244 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1244.tmp
+1245 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1246 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1247 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1248 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1248.tmp
+1249 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1250 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1251 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1252 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1252.tmp
+1253 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1254 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1255 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1256 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1256.tmp
+1257 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1258 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1259 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1260 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1260.tmp
+1261 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1262 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1263 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1264 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1264.tmp
+1265 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1266 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1267 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1268 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1268.tmp
+1269 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1270 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1271 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1272 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1272.tmp
+1273 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1274 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1275 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1276 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1276.tmp
+1277 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1278 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1279 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1280 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1280.tmp
+1281 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1282 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1283 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1284 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1284.tmp
+1285 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1286 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1287 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1288 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1288.tmp
+1289 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1290 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1291 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1292 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1292.tmp
+1293 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1294 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1295 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1296 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1296.tmp
+1297 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1298 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1299 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1300 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1300.tmp
+1301 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1302 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1303 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1304 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1304.tmp
+1305 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1306 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1307 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1308 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1308.tmp
+1309 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1310 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1311 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1312 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1312.tmp
+1313 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1314 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1315 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1316 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1316.tmp
+1317 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1318 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1319 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1320 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1320.tmp
+1321 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1322 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1323 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1324 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1324.tmp
+1325 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1326 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1327 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1328 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1328.tmp
+1329 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1330 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1331 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1332 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1332.tmp
+1333 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1334 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1335 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1336 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1336.tmp
+1337 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1338 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1339 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1340 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1340.tmp
+1341 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1342 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1343 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1344 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1344.tmp
+1345 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1346 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1347 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1348 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1348.tmp
+1349 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1350 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1351 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1352 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1352.tmp
+1353 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1354 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1355 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1356 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1356.tmp
+1357 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1358 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1359 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1360 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1360.tmp
+1361 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1362 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1363 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1364 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1364.tmp
+1365 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1366 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1367 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1368 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1368.tmp
+1369 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1370 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1371 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1372 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1372.tmp
+1373 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1374 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1375 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1376 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1376.tmp
+1377 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1378 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1379 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1380 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1380.tmp
+1381 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1382 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1383 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1384 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1384.tmp
+1385 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1386 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1387 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1388 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1388.tmp
+1389 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1390 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1391 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1392 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1392.tmp
+1393 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1394 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1395 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1396 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1396.tmp
+1397 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1398 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1399 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1400 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1400.tmp
+1401 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1402 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1403 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1404 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1404.tmp
+1405 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1406 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1407 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1408 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1408.tmp
+1409 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1410 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1411 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1412 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1412.tmp
+1413 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1414 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1415 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1416 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1416.tmp
+1417 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1418 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1419 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1420 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1420.tmp
+1421 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1422 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1423 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1424 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1424.tmp
+1425 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1426 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1427 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1428 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1428.tmp
+1429 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1430 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1431 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1432 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1432.tmp
+1433 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1434 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1435 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1436 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1436.tmp
+1437 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1438 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1439 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1440 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1440.tmp
+1441 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1442 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1443 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1444 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1444.tmp
+1445 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1446 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1447 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1448 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1448.tmp
+1449 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1450 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1451 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1452 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1452.tmp
+1453 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1454 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1455 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1456 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1456.tmp
+1457 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1458 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1459 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1460 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1460.tmp
+1461 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1462 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1463 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1464 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1464.tmp
+1465 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1466 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1467 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1468 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1468.tmp
+1469 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1470 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1471 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1472 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1472.tmp
+1473 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1474 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1475 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1476 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1476.tmp
+1477 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1478 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1479 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1480 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1480.tmp
+1481 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1482 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1483 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1484 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1484.tmp
+1485 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1486 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1487 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1488 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1488.tmp
+1489 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1490 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1491 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1492 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1492.tmp
+1493 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1494 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1495 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1496 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1496.tmp
+1497 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1498 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1499 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1500 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1500.tmp
+1501 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1502 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1503 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1504 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1504.tmp
+1505 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1506 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1507 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1508 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1508.tmp
+1509 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1510 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1511 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1512 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1512.tmp
+1513 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1514 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1515 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1516 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1516.tmp
+1517 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1518 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1519 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1520 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1520.tmp
+1521 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1522 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1523 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1524 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1524.tmp
+1525 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1526 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1527 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1528 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1528.tmp
+1529 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1530 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1531 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1532 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1532.tmp
+1533 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1534 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1535 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1536 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1536.tmp
+1537 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1538 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1539 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1540 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1540.tmp
+1541 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1542 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1543 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1544 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1544.tmp
+1545 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1546 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1547 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1548 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1548.tmp
+1549 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1550 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1551 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1552 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1552.tmp
+1553 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1554 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1555 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1556 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1556.tmp
+1557 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1558 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1559 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1560 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1560.tmp
+1561 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1562 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1563 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1564 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1564.tmp
+1565 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1566 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1567 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1568 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1568.tmp
+1569 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1570 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1571 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1572 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1572.tmp
+1573 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1574 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1575 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1576 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1576.tmp
+1577 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1578 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1579 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1580 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1580.tmp
+1581 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1582 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1583 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1584 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1584.tmp
+1585 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1586 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1587 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1588 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1588.tmp
+1589 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1590 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1591 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1592 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1592.tmp
+1593 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1594 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1595 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1596 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1596.tmp
+1597 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1598 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1599 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1600 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1600.tmp
+1601 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1602 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1603 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1604 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1604.tmp
+1605 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1606 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1607 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1608 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1608.tmp
+1609 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1610 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1611 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1612 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1612.tmp
+1613 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1614 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1615 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1616 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1616.tmp
+1617 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1618 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1619 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1620 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1620.tmp
+1621 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1622 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1623 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1624 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1624.tmp
+1625 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1626 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1627 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1628 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1628.tmp
+1629 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1630 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1631 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1632 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1632.tmp
+1633 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1634 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1635 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1636 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1636.tmp
+1637 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1638 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1639 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1640 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1640.tmp
+1641 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1642 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1643 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1644 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1644.tmp
+1645 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1646 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1647 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1648 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1648.tmp
+1649 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1650 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1651 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1652 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1652.tmp
+1653 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1654 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1655 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1656 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1656.tmp
+1657 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1658 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1659 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1660 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1660.tmp
+1661 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1662 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1663 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1664 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1664.tmp
+1665 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1666 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1667 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1668 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1668.tmp
+1669 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1670 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1671 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1672 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1672.tmp
+1673 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1674 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1675 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1676 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1676.tmp
+1677 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1678 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1679 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1680 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1680.tmp
+1681 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1682 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1683 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1684 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1684.tmp
+1685 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1686 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1687 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1688 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1688.tmp
+1689 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1690 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1691 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1692 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1692.tmp
+1693 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1694 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1695 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1696 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1696.tmp
+1697 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1698 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1699 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1700 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1700.tmp
+1701 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1702 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1703 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1704 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1704.tmp
+1705 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1706 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1707 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1708 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1708.tmp
+1709 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1710 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1711 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1712 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1712.tmp
+1713 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1714 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1715 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1716 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1716.tmp
+1717 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1718 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1719 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1720 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1720.tmp
+1721 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1722 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1723 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1724 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1724.tmp
+1725 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1726 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1727 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1728 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1728.tmp
+1729 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1730 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1731 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1732 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1732.tmp
+1733 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1734 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1735 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1736 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1736.tmp
+1737 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1738 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1739 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1740 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1740.tmp
+1741 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1742 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1743 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1744 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1744.tmp
+1745 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1746 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1747 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1748 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1748.tmp
+1749 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1750 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1751 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1752 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1752.tmp
+1753 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1754 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1755 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1756 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1756.tmp
+1757 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1758 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1759 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1760 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1760.tmp
+1761 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1762 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1763 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1764 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1764.tmp
+1765 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1766 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1767 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1768 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1768.tmp
+1769 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1770 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1771 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1772 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1772.tmp
+1773 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1774 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1775 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1776 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1776.tmp
+1777 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1778 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1779 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1780 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1780.tmp
+1781 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1782 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1783 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1784 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1784.tmp
+1785 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1786 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1787 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1788 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1788.tmp
+1789 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1790 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1791 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1792 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1792.tmp
+1793 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1794 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1795 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1796 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1796.tmp
+1797 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1798 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1799 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1800 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1800.tmp
+1801 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1802 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1803 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1804 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1804.tmp
+1805 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1806 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1807 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1808 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1808.tmp
+1809 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1810 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1811 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1812 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1812.tmp
+1813 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1814 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1815 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1816 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1816.tmp
+1817 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1818 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1819 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1820 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1820.tmp
+1821 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1822 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1823 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1824 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1824.tmp
+1825 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1826 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1827 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1828 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1828.tmp
+1829 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1830 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1831 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1832 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1832.tmp
+1833 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1834 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1835 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1836 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1836.tmp
+1837 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1838 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1839 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1840 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1840.tmp
+1841 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1842 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1843 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1844 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1844.tmp
+1845 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1846 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1847 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1848 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1848.tmp
+1849 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1850 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1851 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1852 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1852.tmp
+1853 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1854 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1855 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1856 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1856.tmp
+1857 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1858 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1859 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1860 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1860.tmp
+1861 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1862 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1863 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1864 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1864.tmp
+1865 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1866 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1867 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1868 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1868.tmp
+1869 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1870 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1871 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1872 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1872.tmp
+1873 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1874 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1875 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1876 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1876.tmp
+1877 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1878 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1879 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1880 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1880.tmp
+1881 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1882 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1883 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1884 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1884.tmp
+1885 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1886 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1887 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1888 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1888.tmp
+1889 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1890 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1891 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1892 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1892.tmp
+1893 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1894 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1895 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1896 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1896.tmp
+1897 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1898 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1899 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1900 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1900.tmp
+1901 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1902 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1903 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1904 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1904.tmp
+1905 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1906 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1907 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1908 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1908.tmp
+1909 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1910 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1911 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1912 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1912.tmp
+1913 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1914 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1915 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1916 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1916.tmp
+1917 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1918 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1919 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1920 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1920.tmp
+1921 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1922 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1923 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1924 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1924.tmp
+1925 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1926 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1927 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1928 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1928.tmp
+1929 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1930 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1931 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1932 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1932.tmp
+1933 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1934 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1935 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1936 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1936.tmp
+1937 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1938 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1939 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1940 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1940.tmp
+1941 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1942 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1943 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1944 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1944.tmp
+1945 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1946 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1947 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1948 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1948.tmp
+1949 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1950 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1951 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1952 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1952.tmp
+1953 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1954 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1955 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1956 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1956.tmp
+1957 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1958 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1959 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1960 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1960.tmp
+1961 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1962 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1963 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1964 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1964.tmp
+1965 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1966 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1967 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1968 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1968.tmp
+1969 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1970 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1971 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1972 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1972.tmp
+1973 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1974 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1975 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1976 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1976.tmp
+1977 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1978 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1979 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1980 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1980.tmp
+1981 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1982 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1983 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1984 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1984.tmp
+1985 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1986 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1987 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1988 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1988.tmp
+1989 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1990 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1991 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1992 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1992.tmp
+1993 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1994 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1995 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+1996 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-1996.tmp
+1997 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+1998 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+1999 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+2000 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-2000.tmp
+2001 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+2002 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+2003 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+2004 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-2004.tmp
+2005 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+2006 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+2007 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+2008 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-2008.tmp
+2009 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+2010 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+2011 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+2012 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-2012.tmp
+2013 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+2014 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+2015 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+2016 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-2016.tmp
+2017 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+2018 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+2019 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+2020 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-2020.tmp
+2021 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+2022 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+2023 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+2024 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-2024.tmp
+2025 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+2026 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+2027 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+2028 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-2028.tmp
+2029 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+2030 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+2031 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+2032 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-2032.tmp
+2033 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+2034 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+2035 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+2036 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-2036.tmp
+2037 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+2038 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+2039 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+2040 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-2040.tmp
+2041 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+2042 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+2043 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+2044 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-2044.tmp
+2045 TRACE load_public_config resolveSafePath worker=fixture message=historical-build-output
+2046 DEBUG CanonicalRepoPath active_profile normalized=false source=generated-log
+2047 INFO retry NormalizeModulePath remainingAttempts queue-depth=0007 fixture=noise
+2048 INFO candidate selectCandidate parse_summary_line cache-hit artifact=decoy-2048.tmp

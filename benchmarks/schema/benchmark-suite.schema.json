@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://vexa.dev/schemas/benchmark-suite-v1.schema.json",
+  "title": "VEXA deterministic benchmark suite v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schema_version", "suite_id", "task_schema", "tasks", "runner_contract"],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "suite_id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*$"
+    },
+    "task_schema": {
+      "type": "string",
+      "const": "schema/benchmark-task.schema.json"
+    },
+    "tasks": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "pattern": "^tasks/.+\\.json$"
+      }
+    },
+    "runner_contract": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "fixture_copy_mode",
+        "default_index_state",
+        "task_paths_relative_to",
+        "result_statuses",
+        "manifest_contains_measurements"
+      ],
+      "properties": {
+        "fixture_copy_mode": {
+          "const": "copy_per_task"
+        },
+        "default_index_state": {
+          "const": "fresh"
+        },
+        "task_paths_relative_to": {
+          "const": "benchmarks_root"
+        },
+        "result_statuses": {
+          "type": "array",
+          "const": ["passed", "failed", "skipped", "error"]
+        },
+        "manifest_contains_measurements": {
+          "const": false
+        }
+      }
+    }
+  }
+}
+

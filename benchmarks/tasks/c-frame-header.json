@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "c-frame-header",
+  "category": "retrieval",
+  "language": "c",
+  "fixture_repo": "fixtures/polyglot",
+  "prompt": "Find the C function that reads a two-byte big-endian payload length from a frame header after checking pointers and input length.",
+  "scenario": {
+    "kind": "single_query"
+  },
+  "expected": {
+    "relevant_files": ["c/src/frame.c", "c/include/frame.h"],
+    "relevant_symbols": [
+      {
+        "path": "c/src/frame.c",
+        "symbol": "parse_frame_header"
+      },
+      {
+        "path": "c/include/frame.h",
+        "symbol": "parse_frame_header"
+      }
+    ]
+  }
+}
+

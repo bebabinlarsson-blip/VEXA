@@ -1,0 +1,6 @@
+Crate: hashbrown
+Version: 0.16.1
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/rust-lang/hashbrown
+Authors: Amanieu d'Antras <amanieu@gmail.com>
+Source: https://crates.io/crates/hashbrown/0.16.1

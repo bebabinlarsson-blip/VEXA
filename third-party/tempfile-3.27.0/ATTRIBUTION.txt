@@ -1,0 +1,6 @@
+Crate: tempfile
+Version: 3.27.0
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/Stebalien/tempfile
+Authors: Steven Allen <steven@stebalien.com>, The Rust Project Developers, Ashley Mannix <ashleymannix@live.com.au>, Jason White <me@jasonwhite.io>
+Source: https://crates.io/crates/tempfile/3.27.0

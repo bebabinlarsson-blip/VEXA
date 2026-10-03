@@ -1,0 +1,6 @@
+Crate: typed-path
+Version: 0.12.3
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/chipsenkbeil/typed-path
+Authors: Chip Senkbeil <chip@senkbeil.org>
+Source: https://crates.io/crates/typed-path/0.12.3

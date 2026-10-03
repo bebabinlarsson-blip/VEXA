@@ -1,0 +1,6 @@
+Crate: regex-syntax
+Version: 0.8.11
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/rust-lang/regex
+Authors: The Rust Project Developers, Andrew Gallant <jamslam@gmail.com>
+Source: https://crates.io/crates/regex-syntax/0.8.11

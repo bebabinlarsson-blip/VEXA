@@ -1,0 +1,6 @@
+Crate: option-ext
+Version: 0.2.0
+SPDX license declaration: MPL-2.0
+Repository: https://github.com/soc/option-ext.git
+Authors: Simon Ochsenreither <simon@ochsenreither.de>
+Source: https://crates.io/crates/option-ext/0.2.0

@@ -1,0 +1,6 @@
+Crate: base64
+Version: 0.23.1
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/marshallpierce/rust-base64
+Authors: Marshall Pierce <marshall@mpierce.org>
+Source: https://crates.io/crates/base64/0.23.1

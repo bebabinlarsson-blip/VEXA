@@ -1,0 +1,32 @@
+[package]
+name = "vexa-cli"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+rust-version.workspace = true
+
+[[bin]]
+name = "vexa-core"
+path = "src/main.rs"
+
+[dependencies]
+anyhow.workspace = true
+clap.workspace = true
+dirs.workspace = true
+fs2 = "0.4.3"
+hex.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+sha2.workspace = true
+tempfile.workspace = true
+vexa-core = { path = "../vexa-core", version = "0.1.0" }
+vexa-index = { path = "../vexa-index", version = "0.1.0" }
+vexa-memory = { path = "../vexa-memory", version = "0.1.0" }
+vexa-seek = { path = "../vexa-seek", version = "0.1.0" }
+vexa-types = { path = "../vexa-types", version = "0.1.0" }
+vexa-update = { path = "../vexa-update", version = "0.1.0" }
+vexa-verify = { path = "../vexa-verify", version = "0.1.0" }
+
+[lints]
+workspace = true

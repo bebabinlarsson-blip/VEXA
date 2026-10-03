@@ -1,0 +1,6 @@
+Crate: once_cell_polyfill
+Version: 1.70.2
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/polyfill-rs/once_cell_polyfill
+Authors: 
+Source: https://crates.io/crates/once_cell_polyfill/1.70.2

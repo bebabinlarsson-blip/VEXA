@@ -1,0 +1,81 @@
+name: Heavy validation
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: heavy-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  security:
+    name: Dependency policy and audit
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+      - name: Cargo deny
+        uses: EmbarkStudios/cargo-deny-action@3c6349835b2b7b196a839186cb8b78e02f7b5f25 # v2.1.1
+        with:
+          command: check
+      - name: Install cargo-audit
+        run: cargo install cargo-audit --locked --version 0.22.2
+      - name: Audit Cargo.lock
+        run: cargo audit
+
+  package:
+    name: Package ${{ matrix.target }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: windows-2025
+            target: x86_64-pc-windows-msvc
+            kind: windows
+          - os: ubuntu-24.04
+            target: x86_64-unknown-linux-gnu
+            kind: linux
+          - os: ubuntu-24.04
+            target: aarch64-unknown-linux-musl
+            kind: cross
+    steps:
+      - name: Checkout
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+      - name: Add Rust target
+        if: matrix.kind != 'cross'
+        run: rustup target add ${{ matrix.target }}
+      - name: Package Windows
+        if: matrix.kind == 'windows'
+        shell: pwsh
+        run: ./scripts/package.ps1 -Target '${{ matrix.target }}' -OutputDir dist
+      - name: Package native Linux
+        if: matrix.kind == 'linux'
+        shell: bash
+        run: bash scripts/package.sh --target '${{ matrix.target }}' --output-dir dist
+      - name: Install cross
+        if: matrix.kind == 'cross'
+        shell: bash
+        run: cargo install cross --locked --version 0.2.5
+      - name: Build aarch64 musl
+        if: matrix.kind == 'cross'
+        shell: bash
+        run: cross build --locked --release --package vexa-boot --package vexa-cli --target '${{ matrix.target }}'
+      - name: Package aarch64 musl
+        if: matrix.kind == 'cross'
+        shell: bash
+        run: bash scripts/package.sh --target '${{ matrix.target }}' --output-dir dist --skip-build
+      - name: Upload package
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: package-${{ matrix.target }}
+          path: dist/vexa-*
+          if-no-files-found: error
+          retention-days: 14

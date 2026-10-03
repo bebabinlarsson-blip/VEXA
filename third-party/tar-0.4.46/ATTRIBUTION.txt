@@ -1,0 +1,6 @@
+Crate: tar
+Version: 0.4.46
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/composefs/tar-rs
+Authors: Alex Crichton <alex@alexcrichton.com>
+Source: https://crates.io/crates/tar/0.4.46

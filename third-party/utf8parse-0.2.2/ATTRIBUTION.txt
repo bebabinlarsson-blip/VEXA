@@ -1,0 +1,6 @@
+Crate: utf8parse
+Version: 0.2.2
+SPDX license declaration: Apache-2.0 OR MIT
+Repository: https://github.com/alacritty/vte
+Authors: Joe Wilm <joe@jwilm.com>, Christian Duerr <contact@christianduerr.com>
+Source: https://crates.io/crates/utf8parse/0.2.2

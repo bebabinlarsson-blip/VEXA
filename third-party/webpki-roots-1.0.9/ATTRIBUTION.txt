@@ -1,0 +1,6 @@
+Crate: webpki-roots
+Version: 1.0.9
+SPDX license declaration: CDLA-Permissive-2.0
+Repository: https://github.com/rustls/webpki-roots
+Authors: 
+Source: https://crates.io/crates/webpki-roots/1.0.9

@@ -1,0 +1,6 @@
+Crate: memmap2
+Version: 0.9.11
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/RazrFalcon/memmap2-rs
+Authors: Dan Burkert <dan@danburkert.com>, Yevhenii Reizner <razrfalcon@gmail.com>, The Contributors
+Source: https://crates.io/crates/memmap2/0.9.11

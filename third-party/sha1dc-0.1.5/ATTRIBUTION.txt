@@ -1,0 +1,6 @@
+Crate: sha1dc
+Version: 0.1.5
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/srijs/sha1dc
+Authors: 
+Source: https://crates.io/crates/sha1dc/0.1.5

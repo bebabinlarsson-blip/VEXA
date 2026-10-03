@@ -1,0 +1,1332 @@
+{
+  "context_budget_tokens": 1800,
+  "requested_source_fraction": null,
+  "suite_id": "vexa-deterministic-regression-v1",
+  "suite_path": "benchmarks/benchmark-suite.v1.json",
+  "tasks": [
+    {
+      "id": "rust-normalize-workspace",
+      "category": "retrieval",
+      "language": "rust",
+      "status": "passed",
+      "expected_relevant_files": [
+        "rust/src/workspace.rs"
+      ],
+      "expected_relevant_symbols": [
+        {
+          "path": "rust/src/workspace.rs",
+          "symbol": "normalize_workspace_key"
+        }
+      ],
+      "packet_files": [
+        "rust/src/workspace.rs",
+        "go/modulepath/modulepath.go",
+        "javascript/trace.js"
+      ],
+      "seek_hits": [
+        {
+          "path": "rust/src/workspace.rs",
+          "score": 7.474618314269997
+        },
+        {
+          "path": "go/modulepath/modulepath.go",
+          "score": 5.073671217101746
+        },
+        {
+          "path": "javascript/trace.js",
+          "score": 2.4331940395766987
+        }
+      ],
+      "retrieval": {
+        "packet_relevant_files_found": [
+          "rust/src/workspace.rs"
+        ],
+        "packet_relevant_files_missing": [],
+        "packet_relevant_file_recall": 1.0,
+        "packet_relevant_symbols_found": [
+          {
+            "path": "rust/src/workspace.rs",
+            "symbol": "normalize_workspace_key"
+          }
+        ],
+        "packet_relevant_symbols_missing": [],
+        "packet_relevant_symbol_recall": 1.0,
+        "seek_relevant_files_found": [
+          "rust/src/workspace.rs"
+        ],
+        "seek_relevant_files_missing": [],
+        "seek_relevant_file_recall": 1.0,
+        "seek_relevant_symbols_found": [
+          {
+            "path": "rust/src/workspace.rs",
+            "symbol": "normalize_workspace_key"
+          }
+        ],
+        "seek_relevant_symbols_missing": [],
+        "seek_relevant_symbol_recall": 1.0
+      },
+      "guards": {
+        "configured": false,
+        "passed": true,
+        "forbidden_paths": [],
+        "forbidden_path_hits": [],
+        "forbidden_symbols": [],
+        "forbidden_symbol_hits": [],
+        "repository_content_is_untrusted_required": false
+      },
+      "tokens": {
+        "estimated_source_tokens": 762,
+        "estimated_packet_tokens": 632,
+        "packet_token_reduction": 0.17060367454068237
+      },
+      "latency": {
+        "prepare_ms": 36.1994,
+        "core_reported_total_ms": 36.1415
+      }
+    },
+    {
+      "id": "python-retry-header",
+      "category": "retrieval",
+      "language": "python",
+      "status": "passed",
+      "expected_relevant_files": [
+        "python/retry.py"
+      ],
+      "expected_relevant_symbols": [
+        {
+          "path": "python/retry.py",
+          "symbol": "parse_retry_header"
+        }
+      ],
+      "packet_files": [
+        "python/retry.py",
+        "javascript/trace.js",
+        "c/src/frame.c",
+        "java/src/main/java/bench/RetryBudget.java",
+        "typescript/feature_gate.ts",
+        "c/include/frame.h"
+      ],
+      "seek_hits": [
+        {
+          "path": "python/retry.py",
+          "score": 14.502868036223141
+        },
+        {
+          "path": "javascript/trace.js",
+          "score": 2.433194027118498
+        },
+        {
+          "path": "c/src/frame.c",
+          "score": 2.4151816855626316
+        },
+        {
+          "path": "java/src/main/java/bench/RetryBudget.java",
+          "score": 2.054047810287611
+        },
+        {
+          "path": "typescript/feature_gate.ts",
+          "score": 1.9067922373336372
+        },
+        {
+          "path": "c/include/frame.h",
+          "score": 1.7316655610739375
+        }
+      ],
+      "retrieval": {
+        "packet_relevant_files_found": [
+          "python/retry.py"
+        ],
+        "packet_relevant_files_missing": [],
+        "packet_relevant_file_recall": 1.0,
+        "packet_relevant_symbols_found": [
+          {
+            "path": "python/retry.py",
+            "symbol": "parse_retry_header"
+          }
+        ],
+        "packet_relevant_symbols_missing": [],
+        "packet_relevant_symbol_recall": 1.0,
+        "seek_relevant_files_found": [
+          "python/retry.py"
+        ],
+        "seek_relevant_files_missing": [],
+        "seek_relevant_file_recall": 1.0,
+        "seek_relevant_symbols_found": [
+          {
+            "path": "python/retry.py",
+            "symbol": "parse_retry_header"
+          }
+        ],
+        "seek_relevant_symbols_missing": [],
+        "seek_relevant_symbol_recall": 1.0
+      },
+      "guards": {
+        "configured": false,
+        "passed": true,
+        "forbidden_paths": [],
+        "forbidden_path_hits": [],
+        "forbidden_symbols": [],
+        "forbidden_symbol_hits": [],
+        "repository_content_is_untrusted_required": false
+      },
+      "tokens": {
+        "estimated_source_tokens": 762,
+        "estimated_packet_tokens": 1142,
+        "packet_token_reduction": -0.4986876640419948
+      },
+      "latency": {
+        "prepare_ms": 31.469900000000003,
+        "core_reported_total_ms": 31.4371
+      }
+    },
+    {
+      "id": "typescript-feature-gate",
+      "category": "retrieval",
+      "language": "typescript",
+      "status": "passed",
+      "expected_relevant_files": [
+        "typescript/feature_gate.ts"
+      ],
+      "expected_relevant_symbols": [
+        {
+          "path": "typescript/feature_gate.ts",
+          "symbol": "resolveFeatureGate"
+        }
+      ],
+      "packet_files": [
+        "typescript/feature_gate.ts",
+        "javascript/trace.js"
+      ],
+      "seek_hits": [
+        {
+          "path": "typescript/feature_gate.ts",
+          "score": 10.465043854661339
+        },
+        {
+          "path": "javascript/trace.js",
+          "score": 2.433194017019806
+        }
+      ],
+      "retrieval": {
+        "packet_relevant_files_found": [
+          "typescript/feature_gate.ts"
+        ],
+        "packet_relevant_files_missing": [],
+        "packet_relevant_file_recall": 1.0,
+        "packet_relevant_symbols_found": [
+          {
+            "path": "typescript/feature_gate.ts",
+            "symbol": "resolveFeatureGate"
+          }
+        ],
+        "packet_relevant_symbols_missing": [],
+        "packet_relevant_symbol_recall": 1.0,
+        "seek_relevant_files_found": [
+          "typescript/feature_gate.ts"
+        ],
+        "seek_relevant_files_missing": [],
+        "seek_relevant_file_recall": 1.0,
+        "seek_relevant_symbols_found": [
+          {
+            "path": "typescript/feature_gate.ts",
+            "symbol": "resolveFeatureGate"
+          }
+        ],
+        "seek_relevant_symbols_missing": [],
+        "seek_relevant_symbol_recall": 1.0
+      },
+      "guards": {
+        "configured": false,
+        "passed": true,
+        "forbidden_paths": [],
+        "forbidden_path_hits": [],
+        "forbidden_symbols": [],
+        "forbidden_symbol_hits": [],
+        "repository_content_is_untrusted_required": false
+      },
+      "tokens": {
+        "estimated_source_tokens": 762,
+        "estimated_packet_tokens": 458,
+        "packet_token_reduction": 0.3989501312335958
+      },
+      "latency": {
+        "prepare_ms": 37.291199999999996,
+        "core_reported_total_ms": 37.248999999999995
+      }
+    },
+    {
+      "id": "javascript-trace-id",
+      "category": "retrieval",
+      "language": "javascript",
+      "status": "passed",
+      "expected_relevant_files": [
+        "javascript/trace.js"
+      ],
+      "expected_relevant_symbols": [
+        {
+          "path": "javascript/trace.js",
+          "symbol": "formatLegacyTraceId"
+        }
+      ],
+      "packet_files": [
+        "javascript/trace.js",
+        "go/modulepath/modulepath.go",
+        "java/src/main/java/bench/RetryBudget.java"
+      ],
+      "seek_hits": [
+        {
+          "path": "javascript/trace.js",
+          "score": 19.934565254810177
+        },
+        {
+          "path": "go/modulepath/modulepath.go",
+          "score": 5.6205375026083795
+        },
+        {
+          "path": "java/src/main/java/bench/RetryBudget.java",
+          "score": 0.33553759241697667
+        }
+      ],
+      "retrieval": {
+        "packet_relevant_files_found": [
+          "javascript/trace.js"
+        ],
+        "packet_relevant_files_missing": [],
+        "packet_relevant_file_recall": 1.0,
+        "packet_relevant_symbols_found": [
+          {
+            "path": "javascript/trace.js",
+            "symbol": "formatLegacyTraceId"
+          }
+        ],
+        "packet_relevant_symbols_missing": [],
+        "packet_relevant_symbol_recall": 1.0,
+        "seek_relevant_files_found": [
+          "javascript/trace.js"
+        ],
+        "seek_relevant_files_missing": [],
+        "seek_relevant_file_recall": 1.0,
+        "seek_relevant_symbols_found": [
+          {
+            "path": "javascript/trace.js",
+            "symbol": "formatLegacyTraceId"
+          }
+        ],
+        "seek_relevant_symbols_missing": [],
+        "seek_relevant_symbol_recall": 1.0
+      },
+      "guards": {
+        "configured": false,
+        "passed": true,
+        "forbidden_paths": [],
+        "forbidden_path_hits": [],
+        "forbidden_symbols": [],
+        "forbidden_symbol_hits": [],
+        "repository_content_is_untrusted_required": false
+      },
+      "tokens": {
+        "estimated_source_tokens": 762,
+        "estimated_packet_tokens": 630,
+        "packet_token_reduction": 0.17322834645669294
+      },
+      "latency": {
+        "prepare_ms": 37.2479,
+        "core_reported_total_ms": 37.1643
+      }
+    },
+    {
+      "id": "java-retry-budget",
+      "category": "retrieval",
+      "language": "java",
+      "status": "passed",
+      "expected_relevant_files": [
+        "java/src/main/java/bench/RetryBudget.java"
+      ],
+      "expected_relevant_symbols": [
+        {
+          "path": "java/src/main/java/bench/RetryBudget.java",
+          "symbol": "remainingAttempts"
+        }
+      ],
+      "packet_files": [
+        "java/src/main/java/bench/RetryBudget.java",
+        "python/retry.py",
+        "c/src/frame.c",
+        "cpp/src/index_window.cpp",
+        "javascript/trace.js",
+        "typescript/feature_gate.ts",
+        "c/include/frame.h",
+        "cpp/include/index_window.hpp"
+      ],
+      "seek_hits": [
+        {
+          "path": "java/src/main/java/bench/RetryBudget.java",
+          "score": 14.547121966451474
+        },
+        {
+          "path": "python/retry.py",
+          "score": 5.159738328150449
+        },
+        {
+          "path": "c/src/frame.c",
+          "score": 1.6308274468548194
+        },
+        {
+          "path": "cpp/src/index_window.cpp",
+          "score": 1.5764712512693393
+        },
+        {
+          "path": "javascript/trace.js",
+          "score": 0.7278430942105333
+        },
+        {
+          "path": "typescript/feature_gate.ts",
+          "score": 0.612120279382373
+        }
+      ],
+      "retrieval": {
+        "packet_relevant_files_found": [
+          "java/src/main/java/bench/RetryBudget.java"
+        ],
+        "packet_relevant_files_missing": [],
+        "packet_relevant_file_recall": 1.0,
+        "packet_relevant_symbols_found": [
+          {
+            "path": "java/src/main/java/bench/RetryBudget.java",
+            "symbol": "remainingAttempts"
+          }
+        ],
+        "packet_relevant_symbols_missing": [],
+        "packet_relevant_symbol_recall": 1.0,
+        "seek_relevant_files_found": [
+          "java/src/main/java/bench/RetryBudget.java"
+        ],
+        "seek_relevant_files_missing": [],
+        "seek_relevant_file_recall": 1.0,
+        "seek_relevant_symbols_found": [
+          {
+            "path": "java/src/main/java/bench/RetryBudget.java",
+            "symbol": "remainingAttempts"
+          }
+        ],
+        "seek_relevant_symbols_missing": [],
+        "seek_relevant_symbol_recall": 1.0
+      },
+      "guards": {
+        "configured": false,
+        "passed": true,
+        "forbidden_paths": [],
+        "forbidden_path_hits": [],
+        "forbidden_symbols": [],
+        "forbidden_symbol_hits": [],
+        "repository_content_is_untrusted_required": false
+      },
+      "tokens": {
+        "estimated_source_tokens": 762,
+        "estimated_packet_tokens": 1512,
+        "packet_token_reduction": -0.984251968503937
+      },
+      "latency": {
+        "prepare_ms": 37.7087,
+        "core_reported_total_ms": 37.670700000000004
+      }
+    },
+    {
+      "id": "c-frame-header",
+      "category": "retrieval",
+      "language": "c",
+      "status": "passed",
+      "expected_relevant_files": [
+        "c/src/frame.c",
+        "c/include/frame.h"
+      ],
+      "expected_relevant_symbols": [
+        {
+          "path": "c/src/frame.c",
+          "symbol": "parse_frame_header"
+        },
+        {
+          "path": "c/include/frame.h",
+          "symbol": "parse_frame_header"
+        }
+      ],
+      "packet_files": [
+        "c/src/frame.c",
+        "c/include/frame.h",
+        "rust/src/workspace.rs",
+        "javascript/trace.js",
+        "typescript/feature_gate.ts",
+        "python/retry.py"
+      ],
+      "seek_hits": [
+        {
+          "path": "c/src/frame.c",
+          "score": 12.702550205567013
+        },
+        {
+          "path": "c/include/frame.h",
+          "score": 9.93116760453994
+        },
+        {
+          "path": "rust/src/workspace.rs",
+          "score": 3.127262456163368
+        },
+        {
+          "path": "javascript/trace.js",
+          "score": 2.43319398502489
+        },
+        {
+          "path": "typescript/feature_gate.ts",
+          "score": 1.9067921952400289
+        },
+        {
+          "path": "python/retry.py",
+          "score": 1.3808582350437084
+        }
+      ],
+      "retrieval": {
+        "packet_relevant_files_found": [
+          "c/src/frame.c",
+          "c/include/frame.h"
+        ],
+        "packet_relevant_files_missing": [],
+        "packet_relevant_file_recall": 1.0,
+        "packet_relevant_symbols_found": [
+          {
+            "path": "c/src/frame.c",
+            "symbol": "parse_frame_header"
+          },
+          {
+            "path": "c/include/frame.h",
+            "symbol": "parse_frame_header"
+          }
+        ],
+        "packet_relevant_symbols_missing": [],
+        "packet_relevant_symbol_recall": 1.0,
+        "seek_relevant_files_found": [
+          "c/src/frame.c",
+          "c/include/frame.h"
+        ],
+        "seek_relevant_files_missing": [],
+        "seek_relevant_file_recall": 1.0,
+        "seek_relevant_symbols_found": [
+          {
+            "path": "c/src/frame.c",
+            "symbol": "parse_frame_header"
+          },
+          {
+            "path": "c/include/frame.h",
+            "symbol": "parse_frame_header"
+          }
+        ],
+        "seek_relevant_symbols_missing": [],
+        "seek_relevant_symbol_recall": 1.0
+      },
+      "guards": {
+        "configured": false,
+        "passed": true,
+        "forbidden_paths": [],
+        "forbidden_path_hits": [],
+        "forbidden_symbols": [],
+        "forbidden_symbol_hits": [],
+        "repository_content_is_untrusted_required": false
+      },
+      "tokens": {
+        "estimated_source_tokens": 762,
+        "estimated_packet_tokens": 1109,
+        "packet_token_reduction": -0.45538057742782145
+      },
+      "latency": {
+        "prepare_ms": 33.2497,
+        "core_reported_total_ms": 33.2152
+      }
+    },
+    {
+      "id": "cpp-index-window",
+      "category": "retrieval",
+      "language": "cpp",
+      "status": "passed",
+      "expected_relevant_files": [
+        "cpp/src/index_window.cpp",
+        "cpp/include/index_window.hpp"
+      ],
+      "expected_relevant_symbols": [
+        {
+          "path": "cpp/src/index_window.cpp",
+          "symbol": "IndexWindow::contains"
+        },
+        {
+          "path": "cpp/include/index_window.hpp",
+          "symbol": "contains"
+        }
+      ],
+      "packet_files": [
+        "cpp/src/index_window.cpp",
+        "cpp/include/index_window.hpp",
+        "rust/src/workspace.rs"
+      ],
+      "seek_hits": [
+        {
+          "path": "cpp/src/index_window.cpp",
+          "score": 12.618191564890372
+        },
+        {
+          "path": "cpp/include/index_window.hpp",
+          "score": 11.129903121526196
+        },
+        {
+          "path": "rust/src/workspace.rs",
+          "score": 1.4924815573830807
+        }
+      ],
+      "retrieval": {
+        "packet_relevant_files_found": [
+          "cpp/src/index_window.cpp",
+          "cpp/include/index_window.hpp"
+        ],
+        "packet_relevant_files_missing": [],
+        "packet_relevant_file_recall": 1.0,
+        "packet_relevant_symbols_found": [
+          {
+            "path": "cpp/src/index_window.cpp",
+            "symbol": "IndexWindow::contains"
+          },
+          {
+            "path": "cpp/include/index_window.hpp",
+            "symbol": "contains"
+          }
+        ],
+        "packet_relevant_symbols_missing": [],
+        "packet_relevant_symbol_recall": 1.0,
+        "seek_relevant_files_found": [
+          "cpp/src/index_window.cpp",
+          "cpp/include/index_window.hpp"
+        ],
+        "seek_relevant_files_missing": [],
+        "seek_relevant_file_recall": 1.0,
+        "seek_relevant_symbols_found": [
+          {
+            "path": "cpp/src/index_window.cpp",
+            "symbol": "IndexWindow::contains"
+          },
+          {
+            "path": "cpp/include/index_window.hpp",
+            "symbol": "contains"
+          }
+        ],
+        "seek_relevant_symbols_missing": [],
+        "seek_relevant_symbol_recall": 1.0
+      },
+      "guards": {
+        "configured": false,
+        "passed": true,
+        "forbidden_paths": [],
+        "forbidden_path_hits": [],
+        "forbidden_symbols": [],
+        "forbidden_symbol_hits": [],
+        "repository_content_is_untrusted_required": false
+      },
+      "tokens": {
+        "estimated_source_tokens": 762,
+        "estimated_packet_tokens": 591,
+        "packet_token_reduction": 0.22440944881889768
+      },
+      "latency": {
+        "prepare_ms": 43.396499999999996,
+        "core_reported_total_ms": 43.3382
+      }
+    },
+    {
+      "id": "csharp-token-lease",
+      "category": "retrieval",
+      "language": "csharp",
+      "status": "passed",
+      "expected_relevant_files": [
+        "csharp/TokenLease.cs"
+      ],
+      "expected_relevant_symbols": [
+        {
+          "path": "csharp/TokenLease.cs",
+          "symbol": "IsExpired"
+        }
+      ],
+      "packet_files": [
+        "csharp/TokenLease.cs"
+      ],
+      "seek_hits": [
+        {
+          "path": "csharp/TokenLease.cs",
+          "score": 13.987209611597384
+        }
+      ],
+      "retrieval": {
+        "packet_relevant_files_found": [
+          "csharp/TokenLease.cs"
+        ],
+        "packet_relevant_files_missing": [],
+        "packet_relevant_file_recall": 1.0,
+        "packet_relevant_symbols_found": [
+          {
+            "path": "csharp/TokenLease.cs",
+            "symbol": "IsExpired"
+          }
+        ],
+        "packet_relevant_symbols_missing": [],
+        "packet_relevant_symbol_recall": 1.0,
+        "seek_relevant_files_found": [
+          "csharp/TokenLease.cs"
+        ],
+        "seek_relevant_files_missing": [],
+        "seek_relevant_file_recall": 1.0,
+        "seek_relevant_symbols_found": [
+          {
+            "path": "csharp/TokenLease.cs",
+            "symbol": "IsExpired"
+          }
+        ],
+        "seek_relevant_symbols_missing": [],
+        "seek_relevant_symbol_recall": 1.0
+      },
+      "guards": {
+        "configured": false,
+        "passed": true,
+        "forbidden_paths": [],
+        "forbidden_path_hits": [],
+        "forbidden_symbols": [],
+        "forbidden_symbol_hits": [],
+        "repository_content_is_untrusted_required": false
+      },
+      "tokens": {
+        "estimated_source_tokens": 762,
+        "estimated_packet_tokens": 310,
+        "packet_token_reduction": 0.5931758530183727
+      },
+      "latency": {
+        "prepare_ms": 33.0877,
+        "core_reported_total_ms": 33.0212
+      }
+    },
+    {
+      "id": "go-module-path",
+      "category": "retrieval",
+      "language": "go",
+      "status": "passed",
+      "expected_relevant_files": [
+        "go/modulepath/modulepath.go"
+      ],
+      "expected_relevant_symbols": [
+        {
+          "path": "go/modulepath/modulepath.go",
+          "symbol": "NormalizeModulePath"
+        }
+      ],
+      "packet_files": [
+        "go/modulepath/modulepath.go",
+        "javascript/trace.js",
+        "typescript/feature_gate.ts"
+      ],
+      "seek_hits": [
+        {
+          "path": "go/modulepath/modulepath.go",
+          "score": 7.2848509820119345
+        },
+        {
+          "path": "javascript/trace.js",
+          "score": 4.619085659481021
+        },
+        {
+          "path": "typescript/feature_gate.ts",
+          "score": 1.9067921616406567
+        }
+      ],
+      "retrieval": {
+        "packet_relevant_files_found": [
+          "go/modulepath/modulepath.go"
+        ],
+        "packet_relevant_files_missing": [],
+        "packet_relevant_file_recall": 1.0,
+        "packet_relevant_symbols_found": [
+          {
+            "path": "go/modulepath/modulepath.go",
+            "symbol": "NormalizeModulePath"
+          }
+        ],
+        "packet_relevant_symbols_missing": [],
+        "packet_relevant_symbol_recall": 1.0,
+        "seek_relevant_files_found": [
+          "go/modulepath/modulepath.go"
+        ],
+        "seek_relevant_files_missing": [],
+        "seek_relevant_file_recall": 1.0,
+        "seek_relevant_symbols_found": [
+          {
+            "path": "go/modulepath/modulepath.go",
+            "symbol": "NormalizeModulePath"
+          }
+        ],
+        "seek_relevant_symbols_missing": [],
+        "seek_relevant_symbol_recall": 1.0
+      },
+      "guards": {
+        "configured": false,
+        "passed": true,
+        "forbidden_paths": [],
+        "forbidden_path_hits": [],
+        "forbidden_symbols": [],
+        "forbidden_symbol_hits": [],
+        "repository_content_is_untrusted_required": false
+      },
+      "tokens": {
+        "estimated_source_tokens": 762,
+        "estimated_packet_tokens": 620,
+        "packet_token_reduction": 0.18635170603674545
+      },
+      "latency": {
+        "prepare_ms": 37.4527,
+        "core_reported_total_ms": 37.384100000000004
+      }
+    },
+    {
+      "id": "adversarial-duplicate-misleading-symbol",
+      "category": "adversarial",
+      "language": "typescript",
+      "status": "passed",
+      "expected_relevant_files": [
+        "src/search/candidate_ranker.ts"
+      ],
+      "expected_relevant_symbols": [
+        {
+          "path": "src/search/candidate_ranker.ts",
+          "symbol": "selectCandidate"
+        }
+      ],
+      "packet_files": [
+        "src/search/candidate_ranker.ts",
+        "src/link_policy.go",
+        "src/path_policy.ts",
+        "SYMLINK_CASE.md"
+      ],
+      "seek_hits": [
+        {
+          "path": "src/search/candidate_ranker.ts",
+          "score": 8.868100994937745,
+          "best_symbol": "Candidate"
+        },
+        {
+          "path": "src/link_policy.go",
+          "score": 3.2573542973279492
+        },
+        {
+          "path": "src/path_policy.ts",
+          "score": 2.3544498532896823
+        },
+        {
+          "path": "SYMLINK_CASE.md",
+          "score": 0.7246368382003884
+        }
+      ],
+      "retrieval": {
+        "packet_relevant_files_found": [
+          "src/search/candidate_ranker.ts"
+        ],
+        "packet_relevant_files_missing": [],
+        "packet_relevant_file_recall": 1.0,
+        "packet_relevant_symbols_found": [
+          {
+            "path": "src/search/candidate_ranker.ts",
+            "symbol": "selectCandidate"
+          }
+        ],
+        "packet_relevant_symbols_missing": [],
+        "packet_relevant_symbol_recall": 1.0,
+        "seek_relevant_files_found": [
+          "src/search/candidate_ranker.ts"
+        ],
+        "seek_relevant_files_missing": [],
+        "seek_relevant_file_recall": 1.0,
+        "seek_relevant_symbols_found": [
+          {
+            "path": "src/search/candidate_ranker.ts",
+            "symbol": "selectCandidate"
+          }
+        ],
+        "seek_relevant_symbols_missing": [],
+        "seek_relevant_symbol_recall": 1.0
+      },
+      "guards": {
+        "configured": true,
+        "passed": true,
+        "forbidden_paths": [
+          "src/important_candidate_ranker.ts"
+        ],
+        "forbidden_path_hits": [],
+        "forbidden_symbols": [],
+        "forbidden_symbol_hits": [],
+        "repository_content_is_untrusted_required": false
+      },
+      "tokens": {
+        "estimated_source_tokens": 751,
+        "estimated_packet_tokens": 1068,
+        "packet_token_reduction": -0.42210386151797596
+      },
+      "latency": {
+        "prepare_ms": 35.068000000000005,
+        "core_reported_total_ms": 34.993
+      }
+    },
+    {
+      "id": "adversarial-prompt-injection-comment",
+      "category": "adversarial",
+      "language": "typescript",
+      "status": "passed",
+      "expected_relevant_files": [
+        "src/path_policy.ts"
+      ],
+      "expected_relevant_symbols": [
+        {
+          "path": "src/path_policy.ts",
+          "symbol": "resolveSafePath"
+        }
+      ],
+      "packet_files": [
+        "src/path_policy.ts",
+        "src/search/candidate_ranker.ts",
+        "src/link_policy.go",
+        "SYMLINK_CASE.md"
+      ],
+      "seek_hits": [
+        {
+          "path": "src/path_policy.ts",
+          "score": 12.308423642169696
+        },
+        {
+          "path": "src/search/candidate_ranker.ts",
+          "score": 6.5308645598184265,
+          "best_symbol": "Candidate"
+        },
+        {
+          "path": "src/link_policy.go",
+          "score": 4.94008894746379
+        },
+        {
+          "path": "SYMLINK_CASE.md",
+          "score": 4.92361683181134
+        }
+      ],
+      "retrieval": {
+        "packet_relevant_files_found": [
+          "src/path_policy.ts"
+        ],
+        "packet_relevant_files_missing": [],
+        "packet_relevant_file_recall": 1.0,
+        "packet_relevant_symbols_found": [
+          {
+            "path": "src/path_policy.ts",
+            "symbol": "resolveSafePath"
+          }
+        ],
+        "packet_relevant_symbols_missing": [],
+        "packet_relevant_symbol_recall": 1.0,
+        "seek_relevant_files_found": [
+          "src/path_policy.ts"
+        ],
+        "seek_relevant_files_missing": [],
+        "seek_relevant_file_recall": 1.0,
+        "seek_relevant_symbols_found": [
+          {
+            "path": "src/path_policy.ts",
+            "symbol": "resolveSafePath"
+          }
+        ],
+        "seek_relevant_symbols_missing": [],
+        "seek_relevant_symbol_recall": 1.0
+      },
+      "guards": {
+        "configured": true,
+        "passed": true,
+        "forbidden_paths": [
+          "src/.env"
+        ],
+        "forbidden_path_hits": [],
+        "forbidden_symbols": [],
+        "forbidden_symbol_hits": [],
+        "repository_content_is_untrusted_required": true,
+        "untrusted_evidence_marker_present": true
+      },
+      "tokens": {
+        "estimated_source_tokens": 751,
+        "estimated_packet_tokens": 1062,
+        "packet_token_reduction": -0.41411451398135823
+      },
+      "latency": {
+        "prepare_ms": 31.355500000000003,
+        "core_reported_total_ms": 31.260099999999998
+      }
+    },
+    {
+      "id": "adversarial-secret-neighbour",
+      "category": "adversarial",
+      "language": "python",
+      "status": "passed",
+      "expected_relevant_files": [
+        "src/config_loader.py"
+      ],
+      "expected_relevant_symbols": [
+        {
+          "path": "src/config_loader.py",
+          "symbol": "load_public_config"
+        }
+      ],
+      "packet_files": [
+        "src/config_loader.py",
+        "src/important_candidate_ranker.ts",
+        "src/search/candidate_ranker.ts",
+        "src/path_policy.ts"
+      ],
+      "seek_hits": [
+        {
+          "path": "src/config_loader.py",
+          "score": 8.769458081083744
+        },
+        {
+          "path": "src/important_candidate_ranker.ts",
+          "score": 1.5582078161542792
+        },
+        {
+          "path": "src/search/candidate_ranker.ts",
+          "score": 1.3568487391522517
+        },
+        {
+          "path": "src/path_policy.ts",
+          "score": 1.124734159003888
+        }
+      ],
+      "retrieval": {
+        "packet_relevant_files_found": [
+          "src/config_loader.py"
+        ],
+        "packet_relevant_files_missing": [],
+        "packet_relevant_file_recall": 1.0,
+        "packet_relevant_symbols_found": [
+          {
+            "path": "src/config_loader.py",
+            "symbol": "load_public_config"
+          }
+        ],
+        "packet_relevant_symbols_missing": [],
+        "packet_relevant_symbol_recall": 1.0,
+        "seek_relevant_files_found": [
+          "src/config_loader.py"
+        ],
+        "seek_relevant_files_missing": [],
+        "seek_relevant_file_recall": 1.0,
+        "seek_relevant_symbols_found": [
+          {
+            "path": "src/config_loader.py",
+            "symbol": "load_public_config"
+          }
+        ],
+        "seek_relevant_symbols_missing": [],
+        "seek_relevant_symbol_recall": 1.0
+      },
+      "guards": {
+        "configured": true,
+        "passed": true,
+        "forbidden_paths": [
+          "src/.env"
+        ],
+        "forbidden_path_hits": [],
+        "forbidden_symbols": [],
+        "forbidden_symbol_hits": [],
+        "repository_content_is_untrusted_required": false
+      },
+      "tokens": {
+        "estimated_source_tokens": 751,
+        "estimated_packet_tokens": 851,
+        "packet_token_reduction": -0.13315579227696395
+      },
+      "latency": {
+        "prepare_ms": 31.5762,
+        "core_reported_total_ms": 31.547199999999997
+      }
+    },
+    {
+      "id": "adversarial-symlink-escape",
+      "category": "adversarial",
+      "language": "go",
+      "status": "passed",
+      "expected_relevant_files": [
+        "src/link_policy.go"
+      ],
+      "expected_relevant_symbols": [
+        {
+          "path": "src/link_policy.go",
+          "symbol": "CanonicalRepoPath"
+        }
+      ],
+      "packet_files": [
+        "SYMLINK_CASE.md",
+        "src/path_policy.ts",
+        "src/link_policy.go",
+        "src/search/candidate_ranker.ts"
+      ],
+      "seek_hits": [
+        {
+          "path": "SYMLINK_CASE.md",
+          "score": 6.057683534520136
+        },
+        {
+          "path": "src/path_policy.ts",
+          "score": 4.716050252064147
+        },
+        {
+          "path": "src/link_policy.go",
+          "score": 3.58671349410129
+        },
+        {
+          "path": "src/search/candidate_ranker.ts",
+          "score": 2.6480526650619995
+        }
+      ],
+      "retrieval": {
+        "packet_relevant_files_found": [
+          "src/link_policy.go"
+        ],
+        "packet_relevant_files_missing": [],
+        "packet_relevant_file_recall": 1.0,
+        "packet_relevant_symbols_found": [
+          {
+            "path": "src/link_policy.go",
+            "symbol": "CanonicalRepoPath"
+          }
+        ],
+        "packet_relevant_symbols_missing": [],
+        "packet_relevant_symbol_recall": 1.0,
+        "seek_relevant_files_found": [
+          "src/link_policy.go"
+        ],
+        "seek_relevant_files_missing": [],
+        "seek_relevant_file_recall": 1.0,
+        "seek_relevant_symbols_found": [
+          {
+            "path": "src/link_policy.go",
+            "symbol": "CanonicalRepoPath"
+          }
+        ],
+        "seek_relevant_symbols_missing": [],
+        "seek_relevant_symbol_recall": 1.0
+      },
+      "guards": {
+        "configured": true,
+        "passed": true,
+        "forbidden_paths": [
+          "escape-link.txt"
+        ],
+        "forbidden_path_hits": [],
+        "forbidden_symbols": [],
+        "forbidden_symbol_hits": [],
+        "repository_content_is_untrusted_required": false
+      },
+      "tokens": {
+        "estimated_source_tokens": 751,
+        "estimated_packet_tokens": 1062,
+        "packet_token_reduction": -0.41411451398135823
+      },
+      "latency": {
+        "prepare_ms": 26.4803,
+        "core_reported_total_ms": 26.4483
+      }
+    },
+    {
+      "id": "freshness-stale-index-mutation",
+      "category": "freshness",
+      "language": "rust",
+      "status": "passed",
+      "expected_relevant_files": [
+        "src/state.rs"
+      ],
+      "expected_relevant_symbols": [
+        {
+          "path": "src/state.rs",
+          "symbol": "rotated_profile"
+        }
+      ],
+      "packet_files": [
+        "src/state.rs"
+      ],
+      "seek_hits": [
+        {
+          "path": "src/state.rs",
+          "score": 1.3261099815592094
+        }
+      ],
+      "retrieval": {
+        "packet_relevant_files_found": [
+          "src/state.rs"
+        ],
+        "packet_relevant_files_missing": [],
+        "packet_relevant_file_recall": 1.0,
+        "packet_relevant_symbols_found": [
+          {
+            "path": "src/state.rs",
+            "symbol": "rotated_profile"
+          }
+        ],
+        "packet_relevant_symbols_missing": [],
+        "packet_relevant_symbol_recall": 1.0,
+        "seek_relevant_files_found": [
+          "src/state.rs"
+        ],
+        "seek_relevant_files_missing": [],
+        "seek_relevant_file_recall": 1.0,
+        "seek_relevant_symbols_found": [
+          {
+            "path": "src/state.rs",
+            "symbol": "rotated_profile"
+          }
+        ],
+        "seek_relevant_symbols_missing": [],
+        "seek_relevant_symbol_recall": 1.0
+      },
+      "guards": {
+        "configured": true,
+        "passed": true,
+        "forbidden_paths": [],
+        "forbidden_path_hits": [],
+        "forbidden_symbols": [
+          {
+            "path": "src/state.rs",
+            "symbol": "active_profile"
+          }
+        ],
+        "forbidden_symbol_hits": [],
+        "repository_content_is_untrusted_required": false
+      },
+      "tokens": {
+        "estimated_source_tokens": 26,
+        "estimated_packet_tokens": 262,
+        "packet_token_reduction": -9.076923076923077
+      },
+      "latency": {
+        "prepare_ms": 17.6744,
+        "core_reported_total_ms": 17.6654
+      }
+    },
+    {
+      "id": "adversarial-giant-log",
+      "category": "adversarial",
+      "language": "rust",
+      "status": "passed",
+      "expected_relevant_files": [
+        "src/log_parser.rs"
+      ],
+      "expected_relevant_symbols": [
+        {
+          "path": "src/log_parser.rs",
+          "symbol": "parse_summary_line"
+        }
+      ],
+      "packet_files": [
+        "src/log_parser.rs",
+        ".gitignore",
+        "src/important_candidate_ranker.ts",
+        "src/config_loader.py",
+        "SYMLINK_CASE.md"
+      ],
+      "seek_hits": [
+        {
+          "path": "src/log_parser.rs",
+          "score": 13.668038804777401
+        },
+        {
+          "path": ".gitignore",
+          "score": 6.559571220619831
+        },
+        {
+          "path": "src/important_candidate_ranker.ts",
+          "score": 5.65818448624138
+        },
+        {
+          "path": "src/config_loader.py",
+          "score": 4.073366612366016
+        },
+        {
+          "path": "SYMLINK_CASE.md",
+          "score": 2.684649312497171
+        }
+      ],
+      "retrieval": {
+        "packet_relevant_files_found": [
+          "src/log_parser.rs"
+        ],
+        "packet_relevant_files_missing": [],
+        "packet_relevant_file_recall": 1.0,
+        "packet_relevant_symbols_found": [
+          {
+            "path": "src/log_parser.rs",
+            "symbol": "parse_summary_line"
+          }
+        ],
+        "packet_relevant_symbols_missing": [],
+        "packet_relevant_symbol_recall": 1.0,
+        "seek_relevant_files_found": [
+          "src/log_parser.rs"
+        ],
+        "seek_relevant_files_missing": [],
+        "seek_relevant_file_recall": 1.0,
+        "seek_relevant_symbols_found": [
+          {
+            "path": "src/log_parser.rs",
+            "symbol": "parse_summary_line"
+          }
+        ],
+        "seek_relevant_symbols_missing": [],
+        "seek_relevant_symbol_recall": 1.0
+      },
+      "guards": {
+        "configured": true,
+        "passed": true,
+        "forbidden_paths": [
+          "logs/build.log"
+        ],
+        "forbidden_path_hits": [],
+        "forbidden_symbols": [],
+        "forbidden_symbol_hits": [],
+        "repository_content_is_untrusted_required": false
+      },
+      "tokens": {
+        "estimated_source_tokens": 751,
+        "estimated_packet_tokens": 1099,
+        "packet_token_reduction": -0.4633821571238348
+      },
+      "latency": {
+        "prepare_ms": 29.348599999999998,
+        "core_reported_total_ms": 29.316499999999998
+      },
+      "log_reduction": {
+        "status": "unknown",
+        "lines_scanned": 2048,
+        "truncated": false,
+        "causal_error_count": 0,
+        "test_observation_count": 0
+      }
+    }
+  ],
+  "aggregate": {
+    "task_count": 15,
+    "passed": 15,
+    "failed": 0,
+    "skipped": 0,
+    "errors": 0,
+    "packet_relevant_file_recall": 1.0,
+    "packet_relevant_symbol_recall": 1.0,
+    "seek_relevant_file_recall": 1.0,
+    "seek_relevant_symbol_recall": 1.0,
+    "guard_tasks": 6,
+    "guard_tasks_passed": 6,
+    "median_packet_token_reduction": -0.41411451398135823,
+    "p50_prepare_ms": 33.2497,
+    "p95_prepare_ms": 43.396499999999996,
+    "latency_percentile_method": "nearest_rank"
+  }
+}

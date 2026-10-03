@@ -1,0 +1,6 @@
+Crate: cookie
+Version: 0.18.2
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/SergioBenitez/cookie-rs
+Authors: Sergio Benitez <sb@sergio.bz>, Alex Crichton <alex@alexcrichton.com>
+Source: https://crates.io/crates/cookie/0.18.2

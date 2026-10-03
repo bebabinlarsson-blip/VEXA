@@ -1,0 +1,6 @@
+Crate: smallvec
+Version: 1.16.2
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/servo/rust-smallvec
+Authors: The Servo Project Developers
+Source: https://crates.io/crates/smallvec/1.16.2

@@ -1,0 +1,6 @@
+Crate: bstr
+Version: 1.13.1
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/BurntSushi/bstr
+Authors: Andrew Gallant <jamslam@gmail.com>
+Source: https://crates.io/crates/bstr/1.13.1

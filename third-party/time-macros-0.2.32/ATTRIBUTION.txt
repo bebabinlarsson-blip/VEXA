@@ -1,0 +1,6 @@
+Crate: time-macros
+Version: 0.2.32
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/time-rs/time
+Authors: Jacob Pratt <open-source@jhpratt.dev>, Time contributors
+Source: https://crates.io/crates/time-macros/0.2.32

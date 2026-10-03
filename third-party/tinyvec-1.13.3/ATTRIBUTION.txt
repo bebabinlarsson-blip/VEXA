@@ -1,0 +1,6 @@
+Crate: tinyvec
+Version: 1.13.3
+SPDX license declaration: Zlib OR Apache-2.0 OR MIT
+Repository: https://github.com/Lokathor/tinyvec
+Authors: Lokathor <zefria@gmail.com>
+Source: https://crates.io/crates/tinyvec/1.13.3

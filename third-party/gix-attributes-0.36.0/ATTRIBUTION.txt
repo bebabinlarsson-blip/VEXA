@@ -1,0 +1,6 @@
+Crate: gix-attributes
+Version: 0.36.0
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/GitoxideLabs/gitoxide
+Authors: Sebastian Thiel <sebastian.thiel@icloud.com>
+Source: https://crates.io/crates/gix-attributes/0.36.0

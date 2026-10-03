@@ -1,0 +1,6 @@
+Crate: ignore
+Version: 0.4.33
+SPDX license declaration: Unlicense OR MIT
+Repository: https://github.com/BurntSushi/ripgrep/tree/master/crates/ignore
+Authors: Andrew Gallant <jamslam@gmail.com>
+Source: https://crates.io/crates/ignore/0.4.33

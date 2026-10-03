@@ -1,0 +1,6 @@
+Crate: crossbeam-epoch
+Version: 0.9.21
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/crossbeam-rs/crossbeam
+Authors: 
+Source: https://crates.io/crates/crossbeam-epoch/0.9.21

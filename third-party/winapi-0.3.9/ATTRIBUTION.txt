@@ -1,0 +1,6 @@
+Crate: winapi
+Version: 0.3.9
+SPDX license declaration: MIT/Apache-2.0
+Repository: https://github.com/retep998/winapi-rs
+Authors: Peter Atashian <retep998@gmail.com>
+Source: https://crates.io/crates/winapi/0.3.9

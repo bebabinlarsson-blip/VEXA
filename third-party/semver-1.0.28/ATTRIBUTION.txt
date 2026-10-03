@@ -1,0 +1,6 @@
+Crate: semver
+Version: 1.0.28
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/dtolnay/semver
+Authors: David Tolnay <dtolnay@gmail.com>
+Source: https://crates.io/crates/semver/1.0.28

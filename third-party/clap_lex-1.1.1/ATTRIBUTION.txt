@@ -1,0 +1,6 @@
+Crate: clap_lex
+Version: 1.1.1
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/clap-rs/clap
+Authors: 
+Source: https://crates.io/crates/clap_lex/1.1.1

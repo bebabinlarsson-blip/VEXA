@@ -1,0 +1,6 @@
+Crate: rustls-pki-types
+Version: 1.15.1
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/rustls/pki-types
+Authors: 
+Source: https://crates.io/crates/rustls-pki-types/1.15.1

@@ -1,0 +1,6 @@
+Crate: objc2-io-kit
+Version: 0.3.2
+SPDX license declaration: Zlib OR Apache-2.0 OR MIT
+Repository: https://github.com/madsmtm/objc2
+Authors: 
+Source: https://crates.io/crates/objc2-io-kit/0.3.2

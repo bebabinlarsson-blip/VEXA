@@ -1,0 +1,6 @@
+Crate: is_terminal_polyfill
+Version: 1.70.2
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/polyfill-rs/is_terminal_polyfill
+Authors: 
+Source: https://crates.io/crates/is_terminal_polyfill/1.70.2

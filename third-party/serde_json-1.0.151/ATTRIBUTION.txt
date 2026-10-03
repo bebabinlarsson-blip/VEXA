@@ -1,0 +1,6 @@
+Crate: serde_json
+Version: 1.0.151
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/serde-rs/json
+Authors: Erick Tryzelaar <erick.tryzelaar@gmail.com>, David Tolnay <dtolnay@gmail.com>
+Source: https://crates.io/crates/serde_json/1.0.151

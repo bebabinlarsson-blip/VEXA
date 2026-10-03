@@ -1,0 +1,6 @@
+Crate: sysinfo
+Version: 0.38.4
+SPDX license declaration: MIT
+Repository: https://github.com/GuillaumeGomez/sysinfo
+Authors: Guillaume Gomez <guillaume1.gomez@gmail.com>
+Source: https://crates.io/crates/sysinfo/0.38.4

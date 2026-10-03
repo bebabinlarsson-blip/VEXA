@@ -1,0 +1,6 @@
+Crate: serde_core
+Version: 1.0.229
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/serde-rs/serde
+Authors: Erick Tryzelaar <erick.tryzelaar@gmail.com>, David Tolnay <dtolnay@gmail.com>
+Source: https://crates.io/crates/serde_core/1.0.229

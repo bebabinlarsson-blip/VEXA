@@ -1,0 +1,6 @@
+Crate: bytes
+Version: 1.12.1
+SPDX license declaration: MIT
+Repository: https://github.com/tokio-rs/bytes
+Authors: Carl Lerche <me@carllerche.com>, Sean McArthur <sean@seanmonstar.com>
+Source: https://crates.io/crates/bytes/1.12.1

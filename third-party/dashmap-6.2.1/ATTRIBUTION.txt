@@ -1,0 +1,6 @@
+Crate: dashmap
+Version: 6.2.1
+SPDX license declaration: MIT
+Repository: https://github.com/xacrimon/dashmap
+Authors: Acrimon <joel.wejdenstal@gmail.com>
+Source: https://crates.io/crates/dashmap/6.2.1

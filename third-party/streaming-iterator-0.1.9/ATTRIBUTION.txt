@@ -1,0 +1,6 @@
+Crate: streaming-iterator
+Version: 0.1.9
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/sfackler/streaming-iterator
+Authors: Steven Fackler <sfackler@gmail.com>
+Source: https://crates.io/crates/streaming-iterator/0.1.9

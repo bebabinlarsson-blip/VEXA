@@ -1,0 +1,18 @@
+{
+  "description": "Inject VEXA context before each Codex user prompt.",
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "vexa hook codex-user-prompt-submit",
+            "statusMessage": "Loading VEXA context",
+            "timeout": 30,
+            "additionalContextLimit": 2500
+          }
+        ]
+      }
+    ]
+  }
+}

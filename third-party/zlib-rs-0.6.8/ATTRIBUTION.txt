@@ -1,0 +1,6 @@
+Crate: zlib-rs
+Version: 0.6.8
+SPDX license declaration: Zlib
+Repository: https://github.com/trifectatechfoundation/zlib-rs
+Authors: 
+Source: https://crates.io/crates/zlib-rs/0.6.8

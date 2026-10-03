@@ -1,0 +1,6 @@
+Crate: gix-object
+Version: 0.65.0
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/GitoxideLabs/gitoxide
+Authors: Sebastian Thiel <sebastian.thiel@icloud.com>
+Source: https://crates.io/crates/gix-object/0.65.0

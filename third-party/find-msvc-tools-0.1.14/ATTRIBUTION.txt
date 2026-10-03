@@ -1,0 +1,6 @@
+Crate: find-msvc-tools
+Version: 0.1.14
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/rust-lang/cc-rs
+Authors: 
+Source: https://crates.io/crates/find-msvc-tools/0.1.14

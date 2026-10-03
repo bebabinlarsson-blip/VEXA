@@ -1,0 +1,6 @@
+Crate: jiff-core
+Version: 0.1.1
+SPDX license declaration: Unlicense OR MIT
+Repository: https://github.com/BurntSushi/jiff
+Authors: Andrew Gallant <jamslam@gmail.com>
+Source: https://crates.io/crates/jiff-core/0.1.1

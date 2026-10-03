@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "javascript-trace-id",
+  "category": "retrieval",
+  "language": "javascript",
+  "fixture_repo": "fixtures/polyglot",
+  "prompt": "Find the JavaScript code that creates a legacy trace ID from a normalized prefix and a six-digit zero-padded sequence.",
+  "scenario": {
+    "kind": "single_query"
+  },
+  "expected": {
+    "relevant_files": ["javascript/trace.js"],
+    "relevant_symbols": [
+      {
+        "path": "javascript/trace.js",
+        "symbol": "formatLegacyTraceId"
+      }
+    ]
+  }
+}
+

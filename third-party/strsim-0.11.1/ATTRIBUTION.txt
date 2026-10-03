@@ -1,0 +1,6 @@
+Crate: strsim
+Version: 0.11.1
+SPDX license declaration: MIT
+Repository: https://github.com/rapidfuzz/strsim-rs
+Authors: Danny Guo <danny@dannyguo.com>, maxbachmann <oss@maxbachmann.de>
+Source: https://crates.io/crates/strsim/0.11.1

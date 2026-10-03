@@ -1,0 +1,6 @@
+Crate: unicode-normalization
+Version: 0.1.25
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/unicode-rs/unicode-normalization
+Authors: kwantam <kwantam@gmail.com>, Manish Goregaokar <manishsmail@gmail.com>
+Source: https://crates.io/crates/unicode-normalization/0.1.25

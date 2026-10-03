@@ -1,0 +1,6 @@
+Crate: gix-worktree
+Version: 0.57.0
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/GitoxideLabs/gitoxide
+Authors: Sebastian Thiel <sebastian.thiel@icloud.com>
+Source: https://crates.io/crates/gix-worktree/0.57.0

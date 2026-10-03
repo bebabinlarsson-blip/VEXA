@@ -1,0 +1,6 @@
+Crate: same-file
+Version: 1.0.6
+SPDX license declaration: Unlicense/MIT
+Repository: https://github.com/BurntSushi/same-file
+Authors: Andrew Gallant <jamslam@gmail.com>
+Source: https://crates.io/crates/same-file/1.0.6

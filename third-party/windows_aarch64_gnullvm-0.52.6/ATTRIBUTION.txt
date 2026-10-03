@@ -1,0 +1,6 @@
+Crate: windows_aarch64_gnullvm
+Version: 0.52.6
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/microsoft/windows-rs
+Authors: Microsoft
+Source: https://crates.io/crates/windows_aarch64_gnullvm/0.52.6

@@ -1,0 +1,6 @@
+Crate: memchr
+Version: 2.8.3
+SPDX license declaration: Unlicense OR MIT
+Repository: https://github.com/BurntSushi/memchr
+Authors: Andrew Gallant <jamslam@gmail.com>, bluss
+Source: https://crates.io/crates/memchr/2.8.3

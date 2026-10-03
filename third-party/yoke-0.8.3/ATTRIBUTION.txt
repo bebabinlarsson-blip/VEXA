@@ -1,0 +1,6 @@
+Crate: yoke
+Version: 0.8.3
+SPDX license declaration: Unicode-3.0
+Repository: https://github.com/unicode-org/icu4x
+Authors: Manish Goregaokar <manishsmail@gmail.com>
+Source: https://crates.io/crates/yoke/0.8.3

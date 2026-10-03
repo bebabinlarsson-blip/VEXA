@@ -1,0 +1,23 @@
+{
+  "recorded_local_date": "2026-10-03",
+  "timezone": "Europe/Stockholm",
+  "processor": "Intel Core i5-10600KF",
+  "physical_cores": 6,
+  "logical_processors": 12,
+  "physical_memory_bytes": 34268213248,
+  "rust": "1.90.0",
+  "platform": "Windows x64 10.0.26200",
+  "tests_passed": 77,
+  "release_core_sha256": "8af2b67f8563a2896be036cd97cf81b8a120ca5880a4477e1944ba20f70265a3",
+  "core_bytes": 21516800,
+  "boot_bytes": 324096,
+  "third_party_notices_bytes": 2781447,
+  "package_bytes": 24624141,
+  "windows_offline_install_smoke": "passed: linked-directory rejection, install, manual upgrade, reinstall, rollback in both directions, single-version removal, doctor, hooks, checksum rejection, uninstall with user configuration retained, checksum-valid unexpected archive member rejection",
+  "native_linux_local": "Linux x64 executed in Docker Desktop Debian 12 container; see environment-linux-x64.json",
+  "audit": "cargo audit passed, 291 locked dependencies",
+  "license_policy": "cargo deny check passed; duplicate-version warnings",
+  "performance_context": "local desktop; one-shot measurements, not controlled cross-machine ranking",
+  "benchmark_core_sha256": "d2e0fcf09d360b943f23280f945a012c0bdcb49ec1fc62cacf1407d8ecafe840",
+  "benchmark_core_bytes": 21503488
+}

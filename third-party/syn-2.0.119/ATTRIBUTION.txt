@@ -1,0 +1,6 @@
+Crate: syn
+Version: 2.0.119
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/dtolnay/syn
+Authors: David Tolnay <dtolnay@gmail.com>
+Source: https://crates.io/crates/syn/2.0.119

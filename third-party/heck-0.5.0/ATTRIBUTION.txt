@@ -1,0 +1,6 @@
+Crate: heck
+Version: 0.5.0
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/withoutboats/heck
+Authors: 
+Source: https://crates.io/crates/heck/0.5.0

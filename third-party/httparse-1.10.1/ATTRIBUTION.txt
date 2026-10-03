@@ -1,0 +1,6 @@
+Crate: httparse
+Version: 1.10.1
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/seanmonstar/httparse
+Authors: Sean McArthur <sean@seanmonstar.com>
+Source: https://crates.io/crates/httparse/1.10.1

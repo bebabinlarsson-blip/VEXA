@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "typescript-feature-gate",
+  "category": "retrieval",
+  "language": "typescript",
+  "fixture_repo": "fixtures/polyglot",
+  "prompt": "Find the TypeScript function that resolves a named feature gate and falls back to a supplied default when the gate is absent.",
+  "scenario": {
+    "kind": "single_query"
+  },
+  "expected": {
+    "relevant_files": ["typescript/feature_gate.ts"],
+    "relevant_symbols": [
+      {
+        "path": "typescript/feature_gate.ts",
+        "symbol": "resolveFeatureGate"
+      }
+    ]
+  }
+}
+

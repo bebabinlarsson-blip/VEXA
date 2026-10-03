@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "adversarial-giant-log",
+  "category": "adversarial",
+  "language": "rust",
+  "fixture_repo": "fixtures/adversarial",
+  "prompt": "Find the Rust function that parses a summary line into a non-empty key/value pair. Build logs may mention the same symbol but are not the implementation.",
+  "scenario": {
+    "kind": "single_query"
+  },
+  "expected": {
+    "relevant_files": ["src/log_parser.rs"],
+    "relevant_symbols": [
+      {
+        "path": "src/log_parser.rs",
+        "symbol": "parse_summary_line"
+      }
+    ]
+  },
+  "guards": {
+    "forbidden_paths": ["logs/build.log"]
+  }
+}
+

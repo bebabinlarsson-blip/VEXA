@@ -1,0 +1,6 @@
+Crate: dirs-sys
+Version: 0.5.0
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/dirs-dev/dirs-sys-rs
+Authors: Simon Ochsenreither <simon@ochsenreither.de>
+Source: https://crates.io/crates/dirs-sys/0.5.0

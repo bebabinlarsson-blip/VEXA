@@ -1,0 +1,6 @@
+Crate: r-efi
+Version: 6.0.0
+SPDX license declaration: MIT OR Apache-2.0 OR LGPL-2.1-or-later
+Repository: https://github.com/r-efi/r-efi
+Authors: 
+Source: https://crates.io/crates/r-efi/6.0.0

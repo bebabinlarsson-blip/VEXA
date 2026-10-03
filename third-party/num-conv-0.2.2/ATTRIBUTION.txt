@@ -1,0 +1,6 @@
+Crate: num-conv
+Version: 0.2.2
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/jhpratt/num-conv
+Authors: Jacob Pratt <jacob@jhpratt.dev>
+Source: https://crates.io/crates/num-conv/0.2.2

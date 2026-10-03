@@ -1,0 +1,6 @@
+Crate: anstyle-wincon
+Version: 3.0.11
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/rust-cli/anstyle.git
+Authors: 
+Source: https://crates.io/crates/anstyle-wincon/3.0.11

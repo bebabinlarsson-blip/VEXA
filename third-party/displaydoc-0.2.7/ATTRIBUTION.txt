@@ -1,0 +1,6 @@
+Crate: displaydoc
+Version: 0.2.7
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/yaahc/displaydoc
+Authors: Jane Lusby <jlusby@yaah.dev>
+Source: https://crates.io/crates/displaydoc/0.2.7

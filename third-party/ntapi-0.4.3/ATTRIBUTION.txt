@@ -1,0 +1,6 @@
+Crate: ntapi
+Version: 0.4.3
+SPDX license declaration: Apache-2.0 OR MIT
+Repository: https://github.com/MSxDOS/ntapi
+Authors: MSxDOS <melcodos@gmail.com>
+Source: https://crates.io/crates/ntapi/0.4.3

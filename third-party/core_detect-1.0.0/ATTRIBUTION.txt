@@ -1,0 +1,6 @@
+Crate: core_detect
+Version: 1.0.0
+SPDX license declaration: MIT/Apache-2.0
+Repository: https://github.com/thomcc/core_detect
+Authors: Thom Chiovoloni <chiovolonit@gmail.com>
+Source: https://crates.io/crates/core_detect/1.0.0

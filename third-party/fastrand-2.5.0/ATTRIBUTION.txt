@@ -1,0 +1,6 @@
+Crate: fastrand
+Version: 2.5.0
+SPDX license declaration: Apache-2.0 OR MIT
+Repository: https://github.com/smol-rs/fastrand
+Authors: Stjepan Glavina <stjepang@gmail.com>
+Source: https://crates.io/crates/fastrand/2.5.0

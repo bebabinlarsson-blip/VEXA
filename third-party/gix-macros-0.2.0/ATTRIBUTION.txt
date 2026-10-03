@@ -1,0 +1,6 @@
+Crate: gix-macros
+Version: 0.2.0
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/GitoxideLabs/gitoxide
+Authors: Jiahao XU <Jiahao_XU@outlook.com>, Andre Bogus <bogusandre@gmail.com>, Sebastian Thiel <sebastian.thiel@icloud.com>
+Source: https://crates.io/crates/gix-macros/0.2.0

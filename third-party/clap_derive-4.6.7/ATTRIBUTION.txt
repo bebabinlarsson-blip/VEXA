@@ -1,0 +1,6 @@
+Crate: clap_derive
+Version: 4.6.7
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/clap-rs/clap
+Authors: 
+Source: https://crates.io/crates/clap_derive/4.6.7

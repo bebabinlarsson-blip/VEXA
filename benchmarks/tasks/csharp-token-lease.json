@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "csharp-token-lease",
+  "category": "retrieval",
+  "language": "csharp",
+  "fixture_repo": "fixtures/polyglot",
+  "prompt": "Find the C# method that determines whether a token lease has expired by comparing the current time with its expiration timestamp.",
+  "scenario": {
+    "kind": "single_query"
+  },
+  "expected": {
+    "relevant_files": ["csharp/TokenLease.cs"],
+    "relevant_symbols": [
+      {
+        "path": "csharp/TokenLease.cs",
+        "symbol": "IsExpired"
+      }
+    ]
+  }
+}
+

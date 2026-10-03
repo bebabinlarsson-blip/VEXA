@@ -1,0 +1,6 @@
+Crate: libc
+Version: 0.2.189
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/rust-lang/libc
+Authors: 
+Source: https://crates.io/crates/libc/0.2.189

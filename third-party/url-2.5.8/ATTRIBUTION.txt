@@ -1,0 +1,6 @@
+Crate: url
+Version: 2.5.8
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/servo/rust-url
+Authors: The rust-url developers
+Source: https://crates.io/crates/url/2.5.8

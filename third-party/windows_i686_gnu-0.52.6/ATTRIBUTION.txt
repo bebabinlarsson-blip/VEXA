@@ -1,0 +1,6 @@
+Crate: windows_i686_gnu
+Version: 0.52.6
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/microsoft/windows-rs
+Authors: Microsoft
+Source: https://crates.io/crates/windows_i686_gnu/0.52.6

@@ -1,0 +1,11 @@
+{
+  "profile": "auto",
+  "max_context_tokens": 1800,
+  "warm_timeout_seconds": 600,
+  "auto_update": true,
+  "update_channel": "stable",
+  "telemetry": false,
+  "semantic": false,
+  "allow_workspace_execution": false
+}
+

@@ -1,0 +1,193 @@
+{
+  "kind": "seeded_verifier_correctness",
+  "frontier_hallucination_rate": "NOT MEASURED",
+  "cases": [
+    {
+      "category": "file",
+      "expected": "verified",
+      "claim": {
+        "kind": "file_exists",
+        "path": "lib.rs"
+      },
+      "actual": "verified",
+      "reason": "live_file_exists",
+      "passed": true
+    },
+    {
+      "category": "file",
+      "expected": "contradicted",
+      "claim": {
+        "kind": "file_exists",
+        "path": "invented.rs"
+      },
+      "actual": "contradicted",
+      "reason": "live_file_missing",
+      "passed": true
+    },
+    {
+      "category": "boundary",
+      "expected": "unknown",
+      "claim": {
+        "kind": "file_exists",
+        "path": "../outside.rs"
+      },
+      "actual": "unknown",
+      "reason": "invalid_repository_path",
+      "passed": true
+    },
+    {
+      "category": "boundary",
+      "expected": "unknown",
+      "claim": {
+        "kind": "file_exists",
+        "path": "/tmp/vexa-claims-zp58l_o8/outside.rs"
+      },
+      "actual": "unknown",
+      "reason": "invalid_repository_path",
+      "passed": true
+    },
+    {
+      "category": "hash",
+      "expected": "verified",
+      "claim": {
+        "kind": "file_hash",
+        "path": "lib.rs",
+        "expected_sha256": "3122d615b8e0073591eee795242f1f69d117aa9700f6e5880eb7ee526cfee338"
+      },
+      "actual": "verified",
+      "reason": "live_hash_matches",
+      "passed": true
+    },
+    {
+      "category": "hash",
+      "expected": "contradicted",
+      "claim": {
+        "kind": "file_hash",
+        "path": "lib.rs",
+        "expected_sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+      },
+      "actual": "contradicted",
+      "reason": "live_hash_mismatch",
+      "passed": true
+    },
+    {
+      "category": "hash",
+      "expected": "unknown",
+      "claim": {
+        "kind": "file_hash",
+        "path": "lib.rs",
+        "expected_sha256": "not-a-hash"
+      },
+      "actual": "unknown",
+      "reason": "invalid_expected_sha256",
+      "passed": true
+    },
+    {
+      "category": "symbol",
+      "expected": "verified",
+      "claim": {
+        "kind": "symbol_exists",
+        "path": "lib.rs",
+        "symbol": "real"
+      },
+      "actual": "verified",
+      "reason": "symbol_present",
+      "passed": true
+    },
+    {
+      "category": "symbol",
+      "expected": "contradicted",
+      "claim": {
+        "kind": "symbol_exists",
+        "path": "lib.rs",
+        "symbol": "invented"
+      },
+      "actual": "contradicted",
+      "reason": "symbol_absent",
+      "passed": true
+    },
+    {
+      "category": "signature",
+      "expected": "verified",
+      "claim": {
+        "kind": "signature_exists",
+        "path": "lib.rs",
+        "symbol": "real",
+        "signature": "pub fn real(value: i32) -> i32"
+      },
+      "actual": "verified",
+      "reason": "signature_present",
+      "passed": true
+    },
+    {
+      "category": "signature",
+      "expected": "contradicted",
+      "claim": {
+        "kind": "signature_exists",
+        "path": "lib.rs",
+        "symbol": "real",
+        "signature": "pub fn real(value: String) -> bool"
+      },
+      "actual": "contradicted",
+      "reason": "signature_mismatch",
+      "passed": true
+    },
+    {
+      "category": "malformed",
+      "expected": "unknown",
+      "claim": {
+        "kind": "symbol_exists",
+        "path": "broken.rs",
+        "symbol": "invented"
+      },
+      "actual": "unknown",
+      "reason": "parser_incomplete",
+      "passed": true
+    },
+    {
+      "category": "unsupported",
+      "expected": "unknown",
+      "claim": {
+        "kind": "symbol_exists",
+        "path": "binary.dat",
+        "symbol": "invented"
+      },
+      "actual": "unknown",
+      "reason": "path_not_indexed",
+      "passed": true
+    }
+  ],
+  "log_cases": [
+    {
+      "log": "test real ... ok\n",
+      "exit_code": 0,
+      "expected": "passed",
+      "actual": "passed",
+      "passed": true
+    },
+    {
+      "log": "test invented ... FAILED\n",
+      "exit_code": 1,
+      "expected": "failed",
+      "actual": "failed",
+      "passed": true
+    },
+    {
+      "log": "test hidden ... FAILED\n",
+      "exit_code": 0,
+      "expected": "failed",
+      "actual": "failed",
+      "passed": true
+    },
+    {
+      "log": "Finished build\n",
+      "exit_code": null,
+      "expected": "unknown",
+      "actual": "unknown",
+      "passed": true
+    }
+  ],
+  "claim_accuracy": 1.0,
+  "false_acceptance_rate": 0.0,
+  "all_passed": true
+}

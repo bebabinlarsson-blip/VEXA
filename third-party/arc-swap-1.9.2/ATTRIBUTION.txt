@@ -1,0 +1,6 @@
+Crate: arc-swap
+Version: 1.9.2
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/vorner/arc-swap
+Authors: Michal 'vorner' Vaner <vorner@vorner.cz>
+Source: https://crates.io/crates/arc-swap/1.9.2

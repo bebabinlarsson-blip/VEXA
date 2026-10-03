@@ -1,0 +1,6 @@
+Crate: anyhow
+Version: 1.0.104
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/dtolnay/anyhow
+Authors: David Tolnay <dtolnay@gmail.com>
+Source: https://crates.io/crates/anyhow/1.0.104

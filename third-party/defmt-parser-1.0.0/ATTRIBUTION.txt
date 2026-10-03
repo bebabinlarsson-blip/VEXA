@@ -1,0 +1,6 @@
+Crate: defmt-parser
+Version: 1.0.0
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/knurling-rs/defmt
+Authors: The Knurling-rs developers
+Source: https://crates.io/crates/defmt-parser/1.0.0

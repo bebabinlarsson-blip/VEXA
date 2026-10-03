@@ -1,0 +1,228 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Existing v-prefixed tag to release
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: release-${{ github.event.inputs.tag || github.ref_name }}
+  cancel-in-progress: false
+
+env:
+  RELEASE_TAG: ${{ github.event.inputs.tag || github.ref_name }}
+
+jobs:
+  validate:
+    name: Validate release source
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout tagged source
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          ref: ${{ env.RELEASE_TAG }}
+          fetch-depth: 1
+      - name: Verify pinned GitHub Actions resolve
+        shell: bash
+        run: bash scripts/check-action-pins.sh
+      - name: Match tag to workspace version
+        shell: bash
+        run: |
+          set -euo pipefail
+          version="$(sed -n '/^\[workspace.package\]/,/^\[/ s/^version = "\([^"]*\)"/\1/p' Cargo.toml | head -n 1)"
+          cli_version="$(cargo metadata --no-deps --format-version 1 | sed -n 's/.*"name":"vexa-cli","version":"\([^"]*\)".*/\1/p' | head -n 1)"
+          test -n "$version"
+          test -n "$cli_version"
+          test "$cli_version" = "$version"
+          test "$RELEASE_TAG" = "v$version"
+      - name: Check formatting
+        run: cargo fmt --all -- --check
+      - name: Clippy
+        run: cargo clippy --locked --workspace --all-targets --all-features -- -D warnings
+      - name: Test workspace
+        run: cargo test --locked --workspace --all-features
+
+  security:
+    name: Release dependency security
+    needs: validate
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout tagged source
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          ref: ${{ env.RELEASE_TAG }}
+      - name: Cargo deny
+        uses: EmbarkStudios/cargo-deny-action@3c6349835b2b7b196a839186cb8b78e02f7b5f25 # v2.1.1
+        with:
+          command: check
+      - name: Install cargo-audit
+        run: cargo install cargo-audit --locked --version 0.22.2
+      - name: Audit Cargo.lock
+        run: cargo audit
+
+  package:
+    name: Build and attest ${{ matrix.target }}
+    needs: validate
+    runs-on: ${{ matrix.os }}
+    permissions:
+      contents: read
+      id-token: write
+      attestations: write
+      artifact-metadata: write
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - os: windows-2025
+            target: x86_64-pc-windows-msvc
+            kind: windows
+            extension: zip
+          - os: ubuntu-24.04
+            target: x86_64-unknown-linux-gnu
+            kind: linux
+            extension: tar.gz
+          - os: ubuntu-24.04
+            target: aarch64-unknown-linux-musl
+            kind: cross
+            extension: tar.gz
+    steps:
+      - name: Checkout tagged source
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          ref: ${{ env.RELEASE_TAG }}
+      - name: Add Rust target
+        if: matrix.kind != 'cross'
+        run: rustup target add ${{ matrix.target }}
+      - name: Package Windows
+        if: matrix.kind == 'windows'
+        shell: pwsh
+        run: ./scripts/package.ps1 -Target '${{ matrix.target }}' -OutputDir dist
+      - name: Offline lifecycle smoke Windows artifact
+        if: matrix.kind == 'windows'
+        shell: pwsh
+        run: |
+          $version = $env:RELEASE_TAG.TrimStart('v')
+          ./scripts/smoke-package.ps1 -Archive "dist/vexa-$version-${{ matrix.target }}.zip"
+      - name: Package native Linux
+        if: matrix.kind == 'linux'
+        shell: bash
+        run: bash scripts/package.sh --target '${{ matrix.target }}' --output-dir dist
+      - name: Offline lifecycle smoke Linux artifact
+        if: matrix.kind == 'linux'
+        shell: bash
+        run: bash scripts/smoke-package.sh "dist/vexa-${RELEASE_TAG#v}-${{ matrix.target }}.tar.gz"
+      - name: Install cross
+        if: matrix.kind == 'cross'
+        shell: bash
+        run: cargo install cross --locked --version 0.2.5
+      - name: Build aarch64 musl
+        if: matrix.kind == 'cross'
+        shell: bash
+        run: cross build --locked --release --package vexa-boot --package vexa-cli --target '${{ matrix.target }}'
+      - name: Package aarch64 musl
+        if: matrix.kind == 'cross'
+        shell: bash
+        run: bash scripts/package.sh --target '${{ matrix.target }}' --output-dir dist --skip-build
+      - name: Resolve release paths
+        id: paths
+        shell: bash
+        run: |
+          set -euo pipefail
+          version="${RELEASE_TAG#v}"
+          echo "archive=dist/vexa-$version-${{ matrix.target }}.${{ matrix.extension }}" >> "$GITHUB_OUTPUT"
+          echo "sbom=dist/vexa-$version-${{ matrix.target }}.spdx.json" >> "$GITHUB_OUTPUT"
+      - name: Install cargo-sbom
+        run: cargo install cargo-sbom --locked --version 0.10.0
+      - name: Generate SPDX SBOM
+        shell: bash
+        run: cargo sbom > '${{ steps.paths.outputs.sbom }}'
+      - name: Attest build provenance
+        uses: actions/attest@1e69f48acb82d1966a394da916b4c1698aa569d6 # v4
+        with:
+          subject-path: ${{ steps.paths.outputs.archive }}
+      - name: Attest SBOM
+        uses: actions/attest@1e69f48acb82d1966a394da916b4c1698aa569d6 # v4
+        with:
+          subject-path: ${{ steps.paths.outputs.archive }}
+          sbom-path: ${{ steps.paths.outputs.sbom }}
+      - name: Upload release component
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: release-${{ matrix.target }}
+          path: dist/vexa-*
+          if-no-files-found: error
+          retention-days: 14
+
+  manifest:
+    name: Build checksum manifest
+    needs: [security, package]
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: read
+      id-token: write
+      attestations: write
+      artifact-metadata: write
+    steps:
+      - name: Download release components
+        uses: actions/download-artifact@634f93cb2916e3fdff6788551b99b062d0335ce0 # v5
+        with:
+          pattern: release-*
+          path: dist
+          merge-multiple: true
+      - name: Create SHA256SUMS
+        shell: bash
+        working-directory: dist
+        run: |
+          set -euo pipefail
+          find . -maxdepth 1 -type f -name 'vexa-*' -printf '%f\n' | sort | xargs sha256sum > SHA256SUMS
+          sha256sum --check SHA256SUMS
+      - name: Attest checksum manifest
+        uses: actions/attest@1e69f48acb82d1966a394da916b4c1698aa569d6 # v4
+        with:
+          subject-path: dist/SHA256SUMS
+      - name: Upload complete release bundle
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: release-bundle
+          path: dist/*
+          if-no-files-found: error
+          retention-days: 14
+
+  publish:
+    name: Draft and publish GitHub release
+    needs: manifest
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
+    steps:
+      - name: Download complete release bundle
+        uses: actions/download-artifact@634f93cb2916e3fdff6788551b99b062d0335ce0 # v5
+        with:
+          name: release-bundle
+          path: dist
+      - name: Create or refresh draft release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          if gh release view "$RELEASE_TAG" >/dev/null 2>&1; then
+            is_draft="$(gh release view "$RELEASE_TAG" --json isDraft --jq .isDraft)"
+            test "$is_draft" = "true"
+            gh release upload "$RELEASE_TAG" dist/* --clobber
+          else
+            gh release create "$RELEASE_TAG" dist/* --draft --verify-tag --title "$RELEASE_TAG" --generate-notes
+          fi
+      - name: Publish release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release edit "$RELEASE_TAG" --draft=false

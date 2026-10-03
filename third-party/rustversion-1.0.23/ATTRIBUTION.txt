@@ -1,0 +1,6 @@
+Crate: rustversion
+Version: 1.0.23
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/dtolnay/rustversion
+Authors: David Tolnay <dtolnay@gmail.com>
+Source: https://crates.io/crates/rustversion/1.0.23

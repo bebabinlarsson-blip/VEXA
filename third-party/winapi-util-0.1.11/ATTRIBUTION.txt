@@ -1,0 +1,6 @@
+Crate: winapi-util
+Version: 0.1.11
+SPDX license declaration: Unlicense OR MIT
+Repository: https://github.com/BurntSushi/winapi-util
+Authors: Andrew Gallant <jamslam@gmail.com>
+Source: https://crates.io/crates/winapi-util/0.1.11

@@ -1,0 +1,6 @@
+Crate: aho-corasick
+Version: 1.1.5
+SPDX license declaration: Unlicense OR MIT
+Repository: https://github.com/BurntSushi/aho-corasick
+Authors: Andrew Gallant <jamslam@gmail.com>
+Source: https://crates.io/crates/aho-corasick/1.1.5

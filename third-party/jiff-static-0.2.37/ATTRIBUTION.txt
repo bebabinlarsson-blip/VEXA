@@ -1,0 +1,6 @@
+Crate: jiff-static
+Version: 0.2.37
+SPDX license declaration: Unlicense OR MIT
+Repository: https://github.com/BurntSushi/jiff
+Authors: Andrew Gallant <jamslam@gmail.com>
+Source: https://crates.io/crates/jiff-static/0.2.37

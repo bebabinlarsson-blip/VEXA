@@ -1,0 +1,6 @@
+Crate: foldhash
+Version: 0.2.0
+SPDX license declaration: Zlib
+Repository: https://github.com/orlp/foldhash
+Authors: Orson Peters <orsonpeters@gmail.com>
+Source: https://crates.io/crates/foldhash/0.2.0

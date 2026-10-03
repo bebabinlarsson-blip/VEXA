@@ -1,0 +1,71 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/bebabinlarsson-blip/VEXA/schemas/vexa-api-v1.schema.json",
+  "title": "VEXA local protocol v1",
+  "oneOf": [
+    { "$ref": "#/$defs/prepareRequest" },
+    { "$ref": "#/$defs/prepareResponse" }
+  ],
+  "$defs": {
+    "prepareRequest": {
+      "type": "object",
+      "required": ["vexa_api", "op", "cwd", "prompt"],
+      "additionalProperties": false,
+      "properties": {
+        "vexa_api": { "const": "1" },
+        "op": { "const": "prepare" },
+        "cwd": { "type": "string", "minLength": 1 },
+        "prompt": { "type": "string" },
+        "model": { "type": ["string", "null"] },
+        "mode": { "enum": ["auto", "lite", "standard", "enhanced"] },
+        "max_context_tokens": { "type": "integer", "minimum": 128, "maximum": 1000000 },
+        "diagnostics": { "type": "array", "items": { "type": "string" } },
+        "include_paths": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "evidenceSummary": {
+      "type": "object",
+      "required": ["path", "start_line", "end_line", "sha256", "score"],
+      "additionalProperties": false,
+      "properties": {
+        "path": { "type": "string" },
+        "start_line": { "type": "integer", "minimum": 1 },
+        "end_line": { "type": "integer", "minimum": 1 },
+        "sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+        "score": { "type": "number" }
+      }
+    },
+    "prepareResponse": {
+      "type": "object",
+      "required": [
+        "vexa_api",
+        "status",
+        "profile",
+        "confidence",
+        "estimated_source_tokens",
+        "estimated_packet_tokens",
+        "packet",
+        "evidence",
+        "warnings",
+        "needs_expansion",
+        "timings_ms"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "vexa_api": { "const": "1" },
+        "status": { "enum": ["ok", "error"] },
+        "profile": { "enum": ["auto", "lite", "standard", "enhanced"] },
+        "confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+        "estimated_source_tokens": { "type": "integer", "minimum": 0 },
+        "estimated_packet_tokens": { "type": "integer", "minimum": 0 },
+        "packet": { "type": "string" },
+        "evidence": { "type": "array", "items": { "$ref": "#/$defs/evidenceSummary" } },
+        "warnings": { "type": "array", "items": { "type": "string" } },
+        "needs_expansion": { "type": "boolean" },
+        "expansion_candidates": { "type": "array", "items": { "type": "string" } },
+        "timings_ms": { "type": "object", "additionalProperties": { "type": "number", "minimum": 0 } }
+      }
+    }
+  }
+}
+

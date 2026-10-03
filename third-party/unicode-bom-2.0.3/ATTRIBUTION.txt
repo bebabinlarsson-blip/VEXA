@@ -1,0 +1,6 @@
+Crate: unicode-bom
+Version: 2.0.3
+SPDX license declaration: Apache-2.0
+Repository: https://gitlab.com/philbooth/unicode-bom
+Authors: Phil Booth <pmbooth@gmail.com>
+Source: https://crates.io/crates/unicode-bom/2.0.3

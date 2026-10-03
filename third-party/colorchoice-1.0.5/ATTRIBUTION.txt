@@ -1,0 +1,6 @@
+Crate: colorchoice
+Version: 1.0.5
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/rust-cli/anstyle.git
+Authors: 
+Source: https://crates.io/crates/colorchoice/1.0.5

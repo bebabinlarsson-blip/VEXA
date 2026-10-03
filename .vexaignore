@@ -1,0 +1,5 @@
+# Legal notices and benchmark output are available explicitly but not useful source context.
+third-party/
+THIRD_PARTY_LICENSES.txt
+benchmark-results/
+dist/

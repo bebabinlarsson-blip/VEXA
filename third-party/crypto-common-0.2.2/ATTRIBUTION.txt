@@ -1,0 +1,6 @@
+Crate: crypto-common
+Version: 0.2.2
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/RustCrypto/traits
+Authors: RustCrypto Developers
+Source: https://crates.io/crates/crypto-common/0.2.2

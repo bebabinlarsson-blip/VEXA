@@ -1,0 +1,6 @@
+Crate: simdutf8
+Version: 0.1.5
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/rusticstuff/simdutf8
+Authors: Hans Kratz <hans@appfour.com>
+Source: https://crates.io/crates/simdutf8/0.1.5

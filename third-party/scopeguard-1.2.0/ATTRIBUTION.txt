@@ -1,0 +1,6 @@
+Crate: scopeguard
+Version: 1.2.0
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/bluss/scopeguard
+Authors: bluss
+Source: https://crates.io/crates/scopeguard/1.2.0

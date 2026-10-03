@@ -1,0 +1,6 @@
+Crate: heapless
+Version: 0.8.0
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/rust-embedded/heapless
+Authors: Jorge Aparicio <jorge@japaric.io>, Per Lindgren <per.lindgren@ltu.se>, Emil Fresk <emil.fresk@gmail.com>
+Source: https://crates.io/crates/heapless/0.8.0

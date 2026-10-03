@@ -1,0 +1,6 @@
+Crate: log
+Version: 0.4.34
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/rust-lang/log
+Authors: The Rust Project Developers
+Source: https://crates.io/crates/log/0.4.34

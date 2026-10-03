@@ -1,0 +1,6 @@
+Crate: anstyle
+Version: 1.0.14
+SPDX license declaration: MIT OR Apache-2.0
+Repository: https://github.com/rust-cli/anstyle.git
+Authors: 
+Source: https://crates.io/crates/anstyle/1.0.14
